@@ -1,0 +1,1025 @@
+event_date,event_time,level,description,ts
+2026-02-10,00:53:25,Critical,General Alarm,2026-02-10 00:53:25
+2026-02-10,05:09:16,Information,Phase Rotation fault has been restored,2026-02-10 05:09:16
+2026-02-10,06:16:13,Critical,General Alarm,2026-02-10 06:16:13
+2026-02-10,11:34:36,Critical,General Alarm,2026-02-10 11:34:36
+2026-02-10,11:57:37,Information,Rectifier Input Supply not OK has been restored,2026-02-10 11:57:37
+2026-02-10,12:33:35,Information,Charger Preventive Alarm,2026-02-10 12:33:35
+2026-02-10,19:56:19,Critical,General Alarm,2026-02-10 19:56:19
+2026-02-10,21:39:13,Information,Charger Preventive Alarm has been restored,2026-02-10 21:39:13
+2026-02-11,03:26:22,Information,Operating on Battery has been restored,2026-02-11 03:26:22
+2026-02-11,04:29:39,Information,Charger Preventive Alarm has been restored,2026-02-11 04:29:39
+2026-02-11,06:49:57,Information,Unit 1 General Alarm has been restored,2026-02-11 06:49:57
+2026-02-11,08:26:45,Information,Rectifier Input Supply not OK has been restored,2026-02-11 08:26:45
+2026-02-11,08:53:14,Information,Bypass Input Supply not OK has been restored,2026-02-11 08:53:14
+2026-02-11,13:47:49,Warning,Rectifier Input Supply not OK,2026-02-11 13:47:49
+2026-02-11,20:04:29,Warning,Bypass Input Supply not OK,2026-02-11 20:04:29
+2026-02-11,20:11:58,Information,Charger Preventive Alarm,2026-02-11 20:11:58
+2026-02-11,20:37:13,Information,Bypass Input Supply not OK has been restored,2026-02-11 20:37:13
+2026-02-12,00:36:38,Warning,Operating on Battery,2026-02-12 00:36:38
+2026-02-12,02:35:35,Information,Charger Preventive Alarm has been restored,2026-02-12 02:35:35
+2026-02-12,02:37:03,Information,Charger Preventive Alarm,2026-02-12 02:37:03
+2026-02-12,10:20:34,Critical,Unit 2 General Alarm,2026-02-12 10:20:34
+2026-02-12,10:50:30,Information,Charger Preventive Alarm,2026-02-12 10:50:30
+2026-02-12,11:05:26,Warning,UPS not connected,2026-02-12 11:05:26
+2026-02-12,11:25:19,Warning,Phase Rotation fault,2026-02-12 11:25:19
+2026-02-12,16:02:59,Information,Charger Preventive Alarm,2026-02-12 16:02:59
+2026-02-12,17:30:16,Information,Charger Preventive Alarm has been restored,2026-02-12 17:30:16
+2026-02-12,22:36:52,Warning,Phase Rotation fault,2026-02-12 22:36:52
+2026-02-13,01:35:03,Warning,Rectifier Input Supply not OK,2026-02-13 01:35:03
+2026-02-13,06:36:12,Information,Charger Preventive Alarm,2026-02-13 06:36:12
+2026-02-13,07:37:08,Critical,General Alarm,2026-02-13 07:37:08
+2026-02-13,08:13:09,Critical,Unit 2 General Alarm,2026-02-13 08:13:09
+2026-02-13,09:38:58,Warning,UPS not connected,2026-02-13 09:38:58
+2026-02-13,09:46:24,Warning,Rectifier Input Supply not OK,2026-02-13 09:46:24
+2026-02-13,17:46:38,Information,Phase Rotation fault has been restored,2026-02-13 17:46:38
+2026-02-13,19:15:29,Information,Rectifier Input Supply not OK has been restored,2026-02-13 19:15:29
+2026-02-13,20:13:21,Critical,General Alarm,2026-02-13 20:13:21
+2026-02-13,20:34:44,Information,Unit 1 General Alarm has been restored,2026-02-13 20:34:44
+2026-02-13,22:25:51,Information,General Alarm has been restored,2026-02-13 22:25:51
+2026-02-14,00:34:37,Information,Rectifier Input Supply not OK has been restored,2026-02-14 00:34:37
+2026-02-14,01:21:36,Information,Load protected by Inverter,2026-02-14 01:21:36
+2026-02-14,02:07:17,Information,Unit 2 General Alarm has been restored,2026-02-14 02:07:17
+2026-02-14,03:58:31,Warning,Rectifier Input Supply not OK,2026-02-14 03:58:31
+2026-02-14,06:45:35,Information,Unit 2 General Alarm has been restored,2026-02-14 06:45:35
+2026-02-14,07:32:05,Warning,Rectifier Input Supply not OK,2026-02-14 07:32:05
+2026-02-14,09:38:16,Warning,UPS not connected,2026-02-14 09:38:16
+2026-02-14,11:32:19,Information,Operating on Battery has been restored,2026-02-14 11:32:19
+2026-02-14,12:43:55,Information,Charger Preventive Alarm,2026-02-14 12:43:55
+2026-02-14,13:05:31,Information,Unit 2 General Alarm has been restored,2026-02-14 13:05:31
+2026-02-14,16:02:05,Information,General Alarm has been restored,2026-02-14 16:02:05
+2026-02-14,17:33:08,Warning,UPS not connected,2026-02-14 17:33:08
+2026-02-14,18:44:09,Critical,Unit 2 General Alarm,2026-02-14 18:44:09
+2026-02-14,20:48:55,Critical,General Alarm,2026-02-14 20:48:55
+2026-02-14,21:13:44,Information,General Alarm has been restored,2026-02-14 21:13:44
+2026-02-14,23:29:22,Warning,Rectifier Input Supply not OK,2026-02-14 23:29:22
+2026-02-15,01:52:40,Information,Phase Rotation fault has been restored,2026-02-15 01:52:40
+2026-02-15,03:05:01,Information,Phase Rotation fault has been restored,2026-02-15 03:05:01
+2026-02-15,05:18:46,Information,Bypass Input Supply not OK has been restored,2026-02-15 05:18:46
+2026-02-15,05:58:20,Information,Bypass Input Supply not OK has been restored,2026-02-15 05:58:20
+2026-02-15,10:12:25,Warning,Bypass Input Supply not OK,2026-02-15 10:12:25
+2026-02-15,10:34:20,Information,Charger Preventive Alarm,2026-02-15 10:34:20
+2026-02-15,13:36:38,Information,Rectifier Input Supply not OK has been restored,2026-02-15 13:36:38
+2026-02-15,15:03:18,Information,UPS connected,2026-02-15 15:03:18
+2026-02-15,15:10:25,Critical,Unit 2 General Alarm,2026-02-15 15:10:25
+2026-02-15,17:27:38,Information,Unit 2 General Alarm has been restored,2026-02-15 17:27:38
+2026-02-15,18:36:23,Information,Charger Preventive Alarm,2026-02-15 18:36:23
+2026-02-15,19:00:20,Information,Bypass Input Supply not OK has been restored,2026-02-15 19:00:20
+2026-02-15,21:38:39,Information,UPS connected,2026-02-15 21:38:39
+2026-02-15,21:43:56,Warning,Operating on Battery,2026-02-15 21:43:56
+2026-02-16,00:28:41,Information,Rectifier Input Supply not OK has been restored,2026-02-16 00:28:41
+2026-02-16,01:59:39,Information,General Alarm has been restored,2026-02-16 01:59:39
+2026-02-16,02:26:39,Warning,Operating on Battery,2026-02-16 02:26:39
+2026-02-16,02:41:46,Information,Charger Preventive Alarm has been restored,2026-02-16 02:41:46
+2026-02-16,05:10:30,Information,Rectifier Input Supply not OK has been restored,2026-02-16 05:10:30
+2026-02-16,07:55:57,Information,Charger Preventive Alarm has been restored,2026-02-16 07:55:57
+2026-02-16,10:44:48,Information,Rectifier Input Supply not OK has been restored,2026-02-16 10:44:48
+2026-02-16,13:39:16,Critical,Unit 1 General Alarm,2026-02-16 13:39:16
+2026-02-16,15:32:40,Information,UPS connected,2026-02-16 15:32:40
+2026-02-16,16:06:18,Information,General Alarm has been restored,2026-02-16 16:06:18
+2026-02-16,16:21:54,Information,Charger Preventive Alarm,2026-02-16 16:21:54
+2026-02-16,16:48:22,Warning,Bypass Input Supply not OK,2026-02-16 16:48:22
+2026-02-16,17:16:15,Critical,Unit 2 General Alarm,2026-02-16 17:16:15
+2026-02-16,19:56:06,Information,UPS connected,2026-02-16 19:56:06
+2026-02-17,02:18:45,Warning,Operating on Battery,2026-02-17 02:18:45
+2026-02-17,02:55:17,Information,UPS connected,2026-02-17 02:55:17
+2026-02-17,05:34:52,Information,Rectifier Input Supply not OK has been restored,2026-02-17 05:34:52
+2026-02-17,05:37:57,Information,Unit 2 General Alarm has been restored,2026-02-17 05:37:57
+2026-02-17,09:54:20,Information,Unit 2 General Alarm has been restored,2026-02-17 09:54:20
+2026-02-17,13:12:48,Information,UPS connected,2026-02-17 13:12:48
+2026-02-17,13:14:53,Information,General Alarm has been restored,2026-02-17 13:14:53
+2026-02-17,13:27:23,Warning,Operating on Battery,2026-02-17 13:27:23
+2026-02-17,14:08:44,Warning,Phase Rotation fault,2026-02-17 14:08:44
+2026-02-17,15:30:05,Warning,Bypass Input Supply not OK,2026-02-17 15:30:05
+2026-02-17,19:09:45,Information,Bypass Input Supply not OK has been restored,2026-02-17 19:09:45
+2026-02-17,22:49:48,Information,Charger Preventive Alarm,2026-02-17 22:49:48
+2026-02-18,00:55:55,Critical,General Alarm,2026-02-18 00:55:55
+2026-02-18,03:23:52,Information,Unit 1 General Alarm has been restored,2026-02-18 03:23:52
+2026-02-18,10:41:03,Information,Charger Preventive Alarm,2026-02-18 10:41:03
+2026-02-18,12:17:55,Information,Unit 2 General Alarm has been restored,2026-02-18 12:17:55
+2026-02-18,12:32:50,Information,Charger Preventive Alarm,2026-02-18 12:32:50
+2026-02-18,13:13:14,Information,Operating on Battery has been restored,2026-02-18 13:13:14
+2026-02-18,13:53:47,Critical,Unit 1 General Alarm,2026-02-18 13:53:47
+2026-02-18,15:38:46,Information,Charger Preventive Alarm,2026-02-18 15:38:46
+2026-02-18,18:03:09,Warning,Bypass Input Supply not OK,2026-02-18 18:03:09
+2026-02-18,21:49:30,Information,Charger Preventive Alarm has been restored,2026-02-18 21:49:30
+2026-02-18,21:52:16,Warning,Bypass Input Supply not OK,2026-02-18 21:52:16
+2026-02-18,22:18:12,Information,Unit 2 General Alarm has been restored,2026-02-18 22:18:12
+2026-02-19,02:11:24,Warning,Phase Rotation fault,2026-02-19 02:11:24
+2026-02-19,02:25:07,Critical,Unit 1 General Alarm,2026-02-19 02:25:07
+2026-02-19,04:07:12,Information,Operating on Battery has been restored,2026-02-19 04:07:12
+2026-02-19,06:26:58,Information,Phase Rotation fault has been restored,2026-02-19 06:26:58
+2026-02-19,07:27:41,Critical,General Alarm,2026-02-19 07:27:41
+2026-02-19,07:50:52,Information,General Alarm has been restored,2026-02-19 07:50:52
+2026-02-19,09:07:30,Information,Load protected by Inverter,2026-02-19 09:07:30
+2026-02-19,09:13:08,Information,Charger Preventive Alarm has been restored,2026-02-19 09:13:08
+2026-02-19,09:29:16,Information,Unit 2 General Alarm has been restored,2026-02-19 09:29:16
+2026-02-19,13:13:38,Information,Operating on Battery has been restored,2026-02-19 13:13:38
+2026-02-19,14:32:04,Warning,Operating on Battery,2026-02-19 14:32:04
+2026-02-19,15:10:48,Information,Rectifier Input Supply not OK has been restored,2026-02-19 15:10:48
+2026-02-19,16:33:21,Information,Charger Preventive Alarm has been restored,2026-02-19 16:33:21
+2026-02-19,16:56:45,Warning,Bypass Input Supply not OK,2026-02-19 16:56:45
+2026-02-19,21:23:05,Information,Operating on Battery has been restored,2026-02-19 21:23:05
+2026-02-20,01:49:55,Information,UPS connected,2026-02-20 01:49:55
+2026-02-20,03:35:19,Information,Rectifier Input Supply not OK has been restored,2026-02-20 03:35:19
+2026-02-20,03:53:52,Information,UPS connected,2026-02-20 03:53:52
+2026-02-20,05:13:38,Information,UPS connected,2026-02-20 05:13:38
+2026-02-20,08:22:34,Information,Unit 2 General Alarm has been restored,2026-02-20 08:22:34
+2026-02-20,08:48:09,Information,Load protected by Inverter,2026-02-20 08:48:09
+2026-02-20,09:03:58,Information,Rectifier Input Supply not OK has been restored,2026-02-20 09:03:58
+2026-02-20,09:09:20,Information,Load protected by Inverter,2026-02-20 09:09:20
+2026-02-20,09:28:02,Warning,Rectifier Input Supply not OK,2026-02-20 09:28:02
+2026-02-20,09:55:24,Information,General Alarm has been restored,2026-02-20 09:55:24
+2026-02-20,11:15:51,Information,Load protected by Inverter,2026-02-20 11:15:51
+2026-02-20,13:52:50,Critical,General Alarm,2026-02-20 13:52:50
+2026-02-20,15:06:31,Warning,Rectifier Input Supply not OK,2026-02-20 15:06:31
+2026-02-20,17:20:56,Information,Operating on Battery has been restored,2026-02-20 17:20:56
+2026-02-20,22:05:46,Information,Phase Rotation fault has been restored,2026-02-20 22:05:46
+2026-02-21,00:37:49,Information,Bypass Input Supply not OK has been restored,2026-02-21 00:37:49
+2026-02-21,01:07:48,Warning,Operating on Battery,2026-02-21 01:07:48
+2026-02-21,01:48:33,Warning,Operating on Battery,2026-02-21 01:48:33
+2026-02-21,01:58:46,Information,Unit 1 General Alarm has been restored,2026-02-21 01:58:46
+2026-02-21,04:32:45,Warning,Rectifier Input Supply not OK,2026-02-21 04:32:45
+2026-02-21,10:02:35,Warning,UPS not connected,2026-02-21 10:02:35
+2026-02-21,10:12:36,Information,Unit 2 General Alarm has been restored,2026-02-21 10:12:36
+2026-02-21,12:04:49,Information,Operating on Battery has been restored,2026-02-21 12:04:49
+2026-02-21,12:40:34,Information,Phase Rotation fault has been restored,2026-02-21 12:40:34
+2026-02-21,13:46:45,Information,Load protected by Inverter,2026-02-21 13:46:45
+2026-02-21,14:26:14,Information,Unit 2 General Alarm has been restored,2026-02-21 14:26:14
+2026-02-21,16:13:32,Information,Load protected by Inverter,2026-02-21 16:13:32
+2026-02-21,17:33:02,Information,Charger Preventive Alarm has been restored,2026-02-21 17:33:02
+2026-02-21,18:51:37,Critical,Unit 2 General Alarm,2026-02-21 18:51:37
+2026-02-21,18:54:58,Warning,Operating on Battery,2026-02-21 18:54:58
+2026-02-21,19:16:51,Warning,Bypass Input Supply not OK,2026-02-21 19:16:51
+2026-02-21,19:55:48,Warning,Bypass Input Supply not OK,2026-02-21 19:55:48
+2026-02-21,20:38:44,Warning,UPS not connected,2026-02-21 20:38:44
+2026-02-21,21:32:29,Critical,Unit 1 General Alarm,2026-02-21 21:32:29
+2026-02-21,22:35:04,Warning,Rectifier Input Supply not OK,2026-02-21 22:35:04
+2026-02-22,00:18:36,Information,Operating on Battery has been restored,2026-02-22 00:18:36
+2026-02-22,03:03:30,Information,Bypass Input Supply not OK has been restored,2026-02-22 03:03:30
+2026-02-22,03:30:00,Information,General Alarm has been restored,2026-02-22 03:30:00
+2026-02-22,03:36:19,Critical,Unit 2 General Alarm,2026-02-22 03:36:19
+2026-02-22,05:29:40,Information,Charger Preventive Alarm,2026-02-22 05:29:40
+2026-02-22,07:33:35,Warning,Operating on Battery,2026-02-22 07:33:35
+2026-02-22,08:52:04,Critical,General Alarm,2026-02-22 08:52:04
+2026-02-22,10:11:29,Information,General Alarm has been restored,2026-02-22 10:11:29
+2026-02-22,15:45:25,Information,Rectifier Input Supply not OK has been restored,2026-02-22 15:45:25
+2026-02-22,17:10:10,Warning,Operating on Battery,2026-02-22 17:10:10
+2026-02-22,19:52:09,Information,Rectifier Input Supply not OK has been restored,2026-02-22 19:52:09
+2026-02-23,03:32:53,Warning,UPS not connected,2026-02-23 03:32:53
+2026-02-23,09:06:45,Critical,Unit 1 General Alarm,2026-02-23 09:06:45
+2026-02-23,09:18:59,Warning,Rectifier Input Supply not OK,2026-02-23 09:18:59
+2026-02-23,09:38:18,Information,General Alarm has been restored,2026-02-23 09:38:18
+2026-02-23,12:00:01,Information,Unit 2 General Alarm has been restored,2026-02-23 12:00:01
+2026-02-23,12:51:10,Information,Operating on Battery has been restored,2026-02-23 12:51:10
+2026-02-23,18:02:36,Information,General Alarm has been restored,2026-02-23 18:02:36
+2026-02-23,19:00:49,Information,Load protected by Inverter,2026-02-23 19:00:49
+2026-02-23,20:21:07,Information,Bypass Input Supply not OK has been restored,2026-02-23 20:21:07
+2026-02-23,21:00:18,Information,Operating on Battery has been restored,2026-02-23 21:00:18
+2026-02-23,22:05:46,Information,Phase Rotation fault has been restored,2026-02-23 22:05:46
+2026-02-23,22:07:55,Information,Load protected by Inverter,2026-02-23 22:07:55
+2026-02-24,00:39:03,Information,Operating on Battery has been restored,2026-02-24 00:39:03
+2026-02-24,01:35:43,Warning,Rectifier Input Supply not OK,2026-02-24 01:35:43
+2026-02-24,02:06:11,Critical,Unit 1 General Alarm,2026-02-24 02:06:11
+2026-02-24,02:22:18,Information,Rectifier Input Supply not OK has been restored,2026-02-24 02:22:18
+2026-02-24,03:13:10,Information,Rectifier Input Supply not OK has been restored,2026-02-24 03:13:10
+2026-02-24,06:20:31,Information,Rectifier Input Supply not OK has been restored,2026-02-24 06:20:31
+2026-02-24,16:15:33,Information,Rectifier Input Supply not OK has been restored,2026-02-24 16:15:33
+2026-02-24,16:44:20,Warning,UPS not connected,2026-02-24 16:44:20
+2026-02-24,17:45:29,Information,UPS connected,2026-02-24 17:45:29
+2026-02-24,22:44:59,Information,Load protected by Inverter,2026-02-24 22:44:59
+2026-02-24,23:09:35,Information,UPS connected,2026-02-24 23:09:35
+2026-02-24,23:40:13,Warning,Phase Rotation fault,2026-02-24 23:40:13
+2026-02-25,01:37:31,Warning,Phase Rotation fault,2026-02-25 01:37:31
+2026-02-25,03:53:50,Critical,Unit 1 General Alarm,2026-02-25 03:53:50
+2026-02-25,04:18:11,Information,Rectifier Input Supply not OK has been restored,2026-02-25 04:18:11
+2026-02-25,09:48:32,Critical,Unit 2 General Alarm,2026-02-25 09:48:32
+2026-02-25,09:53:51,Information,Unit 1 General Alarm has been restored,2026-02-25 09:53:51
+2026-02-25,10:11:15,Information,Unit 1 General Alarm has been restored,2026-02-25 10:11:15
+2026-02-25,11:17:37,Warning,Bypass Input Supply not OK,2026-02-25 11:17:37
+2026-02-25,11:38:14,Warning,Operating on Battery,2026-02-25 11:38:14
+2026-02-25,13:49:24,Warning,Phase Rotation fault,2026-02-25 13:49:24
+2026-02-25,16:14:00,Information,Bypass Input Supply not OK has been restored,2026-02-25 16:14:00
+2026-02-25,16:47:42,Information,Unit 1 General Alarm has been restored,2026-02-25 16:47:42
+2026-02-25,17:14:09,Warning,Phase Rotation fault,2026-02-25 17:14:09
+2026-02-25,22:00:55,Information,Load protected by Inverter,2026-02-25 22:00:55
+2026-02-25,23:59:32,Information,General Alarm has been restored,2026-02-25 23:59:32
+2026-02-26,03:02:21,Information,UPS connected,2026-02-26 03:02:21
+2026-02-26,06:18:22,Information,Bypass Input Supply not OK has been restored,2026-02-26 06:18:22
+2026-02-26,06:51:51,Information,Unit 2 General Alarm has been restored,2026-02-26 06:51:51
+2026-02-26,07:11:16,Critical,General Alarm,2026-02-26 07:11:16
+2026-02-26,07:30:57,Information,Rectifier Input Supply not OK has been restored,2026-02-26 07:30:57
+2026-02-26,19:46:40,Information,Unit 2 General Alarm has been restored,2026-02-26 19:46:40
+2026-02-27,01:53:10,Critical,General Alarm,2026-02-27 01:53:10
+2026-02-27,08:49:40,Warning,Phase Rotation fault,2026-02-27 08:49:40
+2026-02-27,09:02:33,Information,Operating on Battery has been restored,2026-02-27 09:02:33
+2026-02-27,09:06:43,Critical,General Alarm,2026-02-27 09:06:43
+2026-02-27,14:25:50,Information,Load protected by Inverter,2026-02-27 14:25:50
+2026-02-27,15:33:52,Information,Unit 1 General Alarm has been restored,2026-02-27 15:33:52
+2026-02-27,15:51:59,Critical,Unit 1 General Alarm,2026-02-27 15:51:59
+2026-02-27,22:32:55,Warning,UPS not connected,2026-02-27 22:32:55
+2026-02-27,23:16:25,Warning,Bypass Input Supply not OK,2026-02-27 23:16:25
+2026-02-28,01:26:11,Information,UPS connected,2026-02-28 01:26:11
+2026-02-28,05:14:50,Critical,Unit 2 General Alarm,2026-02-28 05:14:50
+2026-02-28,07:53:13,Warning,Bypass Input Supply not OK,2026-02-28 07:53:13
+2026-02-28,07:56:18,Critical,Unit 1 General Alarm,2026-02-28 07:56:18
+2026-02-28,16:25:10,Warning,Operating on Battery,2026-02-28 16:25:10
+2026-02-28,18:24:21,Critical,General Alarm,2026-02-28 18:24:21
+2026-03-01,01:56:00,Warning,Phase Rotation fault,2026-03-01 01:56:00
+2026-03-01,04:15:15,Critical,General Alarm,2026-03-01 04:15:15
+2026-03-01,12:47:42,Critical,General Alarm,2026-03-01 12:47:42
+2026-03-01,14:08:13,Information,Rectifier Input Supply not OK has been restored,2026-03-01 14:08:13
+2026-03-01,16:06:12,Information,Rectifier Input Supply not OK has been restored,2026-03-01 16:06:12
+2026-03-01,21:16:39,Warning,Rectifier Input Supply not OK,2026-03-01 21:16:39
+2026-03-01,21:23:34,Critical,Unit 2 General Alarm,2026-03-01 21:23:34
+2026-03-01,21:48:32,Warning,Rectifier Input Supply not OK,2026-03-01 21:48:32
+2026-03-01,23:35:47,Warning,UPS not connected,2026-03-01 23:35:47
+2026-03-02,00:33:10,Warning,Bypass Input Supply not OK,2026-03-02 00:33:10
+2026-03-02,01:07:03,Warning,UPS not connected,2026-03-02 01:07:03
+2026-03-02,03:09:15,Information,UPS connected,2026-03-02 03:09:15
+2026-03-02,06:02:39,Information,Bypass Input Supply not OK has been restored,2026-03-02 06:02:39
+2026-03-02,07:22:36,Warning,Phase Rotation fault,2026-03-02 07:22:36
+2026-03-02,07:29:05,Information,Operating on Battery has been restored,2026-03-02 07:29:05
+2026-03-02,08:37:27,Information,UPS connected,2026-03-02 08:37:27
+2026-03-02,11:06:37,Information,Load protected by Inverter,2026-03-02 11:06:37
+2026-03-02,13:14:13,Information,Charger Preventive Alarm,2026-03-02 13:14:13
+2026-03-02,13:53:59,Critical,Unit 1 General Alarm,2026-03-02 13:53:59
+2026-03-03,01:54:44,Information,Unit 1 General Alarm has been restored,2026-03-03 01:54:44
+2026-03-03,01:55:53,Information,Phase Rotation fault has been restored,2026-03-03 01:55:53
+2026-03-03,04:35:06,Information,Rectifier Input Supply not OK has been restored,2026-03-03 04:35:06
+2026-03-03,04:56:48,Information,Operating on Battery has been restored,2026-03-03 04:56:48
+2026-03-03,06:26:05,Information,Bypass Input Supply not OK has been restored,2026-03-03 06:26:05
+2026-03-03,07:58:07,Information,Unit 1 General Alarm has been restored,2026-03-03 07:58:07
+2026-03-03,08:14:07,Information,Rectifier Input Supply not OK has been restored,2026-03-03 08:14:07
+2026-03-03,10:02:08,Information,Charger Preventive Alarm,2026-03-03 10:02:08
+2026-03-03,11:26:52,Information,Charger Preventive Alarm,2026-03-03 11:26:52
+2026-03-03,11:51:43,Information,Rectifier Input Supply not OK has been restored,2026-03-03 11:51:43
+2026-03-03,13:55:45,Warning,Operating on Battery,2026-03-03 13:55:45
+2026-03-03,14:37:22,Warning,Phase Rotation fault,2026-03-03 14:37:22
+2026-03-03,16:15:44,Critical,General Alarm,2026-03-03 16:15:44
+2026-03-03,19:16:44,Information,Unit 1 General Alarm has been restored,2026-03-03 19:16:44
+2026-03-03,23:23:53,Information,Operating on Battery has been restored,2026-03-03 23:23:53
+2026-03-03,23:26:16,Warning,Phase Rotation fault,2026-03-03 23:26:16
+2026-03-04,01:06:01,Information,Rectifier Input Supply not OK has been restored,2026-03-04 01:06:01
+2026-03-04,01:15:24,Information,Unit 2 General Alarm has been restored,2026-03-04 01:15:24
+2026-03-04,02:05:42,Critical,General Alarm,2026-03-04 02:05:42
+2026-03-04,03:14:05,Information,Unit 2 General Alarm has been restored,2026-03-04 03:14:05
+2026-03-04,04:34:52,Warning,Phase Rotation fault,2026-03-04 04:34:52
+2026-03-04,05:37:05,Information,Rectifier Input Supply not OK has been restored,2026-03-04 05:37:05
+2026-03-04,08:41:56,Information,Unit 1 General Alarm has been restored,2026-03-04 08:41:56
+2026-03-04,10:01:22,Critical,Unit 1 General Alarm,2026-03-04 10:01:22
+2026-03-04,10:08:52,Warning,Bypass Input Supply not OK,2026-03-04 10:08:52
+2026-03-04,11:14:09,Warning,Bypass Input Supply not OK,2026-03-04 11:14:09
+2026-03-04,21:15:19,Warning,Phase Rotation fault,2026-03-04 21:15:19
+2026-03-05,02:23:52,Information,Unit 2 General Alarm has been restored,2026-03-05 02:23:52
+2026-03-05,04:34:33,Information,Unit 1 General Alarm has been restored,2026-03-05 04:34:33
+2026-03-05,05:51:48,Information,Unit 2 General Alarm has been restored,2026-03-05 05:51:48
+2026-03-05,08:51:17,Warning,Operating on Battery,2026-03-05 08:51:17
+2026-03-05,10:16:33,Information,Charger Preventive Alarm,2026-03-05 10:16:33
+2026-03-05,10:44:28,Information,Bypass Input Supply not OK has been restored,2026-03-05 10:44:28
+2026-03-05,12:12:16,Critical,General Alarm,2026-03-05 12:12:16
+2026-03-05,12:18:48,Information,Bypass Input Supply not OK has been restored,2026-03-05 12:18:48
+2026-03-05,16:31:17,Information,Bypass Input Supply not OK has been restored,2026-03-05 16:31:17
+2026-03-05,19:26:59,Critical,General Alarm,2026-03-05 19:26:59
+2026-03-05,19:37:42,Information,Charger Preventive Alarm has been restored,2026-03-05 19:37:42
+2026-03-05,20:04:17,Information,Rectifier Input Supply not OK has been restored,2026-03-05 20:04:17
+2026-03-06,00:42:00,Information,Unit 1 General Alarm has been restored,2026-03-06 00:42:00
+2026-03-06,02:17:29,Warning,Operating on Battery,2026-03-06 02:17:29
+2026-03-06,06:12:23,Information,Charger Preventive Alarm has been restored,2026-03-06 06:12:23
+2026-03-06,06:16:42,Information,Charger Preventive Alarm,2026-03-06 06:16:42
+2026-03-06,07:40:58,Warning,Rectifier Input Supply not OK,2026-03-06 07:40:58
+2026-03-06,12:10:23,Information,Charger Preventive Alarm has been restored,2026-03-06 12:10:23
+2026-03-06,12:29:28,Warning,Operating on Battery,2026-03-06 12:29:28
+2026-03-06,13:36:42,Information,Rectifier Input Supply not OK has been restored,2026-03-06 13:36:42
+2026-03-06,22:15:18,Information,Unit 1 General Alarm has been restored,2026-03-06 22:15:18
+2026-03-07,00:14:34,Information,UPS connected,2026-03-07 00:14:34
+2026-03-07,01:34:41,Warning,Phase Rotation fault,2026-03-07 01:34:41
+2026-03-07,07:49:36,Critical,General Alarm,2026-03-07 07:49:36
+2026-03-07,11:54:54,Information,General Alarm has been restored,2026-03-07 11:54:54
+2026-03-07,13:15:22,Information,Charger Preventive Alarm has been restored,2026-03-07 13:15:22
+2026-03-07,13:44:54,Information,Load protected by Inverter,2026-03-07 13:44:54
+2026-03-07,14:05:31,Critical,Unit 1 General Alarm,2026-03-07 14:05:31
+2026-03-07,16:45:03,Information,UPS connected,2026-03-07 16:45:03
+2026-03-07,16:52:44,Warning,Rectifier Input Supply not OK,2026-03-07 16:52:44
+2026-03-07,18:11:34,Critical,Unit 2 General Alarm,2026-03-07 18:11:34
+2026-03-07,21:38:10,Warning,Operating on Battery,2026-03-07 21:38:10
+2026-03-07,21:47:08,Information,Phase Rotation fault has been restored,2026-03-07 21:47:08
+2026-03-08,00:12:51,Information,Load protected by Inverter,2026-03-08 00:12:51
+2026-03-08,00:25:16,Information,Charger Preventive Alarm,2026-03-08 00:25:16
+2026-03-08,01:38:24,Warning,UPS not connected,2026-03-08 01:38:24
+2026-03-08,03:32:57,Warning,UPS not connected,2026-03-08 03:32:57
+2026-03-08,10:58:11,Information,Phase Rotation fault has been restored,2026-03-08 10:58:11
+2026-03-08,12:40:57,Warning,UPS not connected,2026-03-08 12:40:57
+2026-03-08,13:19:36,Information,UPS connected,2026-03-08 13:19:36
+2026-03-08,14:04:24,Information,UPS connected,2026-03-08 14:04:24
+2026-03-08,17:19:47,Information,Bypass Input Supply not OK has been restored,2026-03-08 17:19:47
+2026-03-08,21:48:17,Information,Operating on Battery has been restored,2026-03-08 21:48:17
+2026-03-08,23:04:46,Information,Operating on Battery has been restored,2026-03-08 23:04:46
+2026-03-09,00:36:51,Warning,Phase Rotation fault,2026-03-09 00:36:51
+2026-03-09,07:43:57,Critical,Unit 2 General Alarm,2026-03-09 07:43:57
+2026-03-09,09:58:20,Warning,Phase Rotation fault,2026-03-09 09:58:20
+2026-03-09,10:55:20,Warning,UPS not connected,2026-03-09 10:55:20
+2026-03-09,11:43:51,Information,Bypass Input Supply not OK has been restored,2026-03-09 11:43:51
+2026-03-09,12:57:01,Information,Charger Preventive Alarm has been restored,2026-03-09 12:57:01
+2026-03-09,15:01:04,Warning,Rectifier Input Supply not OK,2026-03-09 15:01:04
+2026-03-09,16:09:56,Information,Rectifier Input Supply not OK has been restored,2026-03-09 16:09:56
+2026-03-09,16:20:48,Information,UPS connected,2026-03-09 16:20:48
+2026-03-09,16:43:24,Warning,Phase Rotation fault,2026-03-09 16:43:24
+2026-03-09,17:29:17,Critical,General Alarm,2026-03-09 17:29:17
+2026-03-09,21:39:21,Warning,UPS not connected,2026-03-09 21:39:21
+2026-03-09,23:12:37,Information,Load protected by Inverter,2026-03-09 23:12:37
+2026-03-10,05:48:08,Information,Phase Rotation fault has been restored,2026-03-10 05:48:08
+2026-03-10,06:54:22,Information,Load protected by Inverter,2026-03-10 06:54:22
+2026-03-10,12:20:50,Warning,Bypass Input Supply not OK,2026-03-10 12:20:50
+2026-03-10,14:47:53,Critical,General Alarm,2026-03-10 14:47:53
+2026-03-10,15:36:19,Critical,Unit 2 General Alarm,2026-03-10 15:36:19
+2026-03-10,16:56:16,Information,Charger Preventive Alarm,2026-03-10 16:56:16
+2026-03-10,22:01:53,Information,Phase Rotation fault has been restored,2026-03-10 22:01:53
+2026-03-11,07:09:27,Information,Unit 1 General Alarm has been restored,2026-03-11 07:09:27
+2026-03-11,09:06:43,Information,Unit 1 General Alarm has been restored,2026-03-11 09:06:43
+2026-03-11,13:24:10,Information,Charger Preventive Alarm,2026-03-11 13:24:10
+2026-03-11,14:02:19,Information,Rectifier Input Supply not OK has been restored,2026-03-11 14:02:19
+2026-03-11,14:54:50,Information,Phase Rotation fault has been restored,2026-03-11 14:54:50
+2026-03-11,15:00:12,Information,Unit 1 General Alarm has been restored,2026-03-11 15:00:12
+2026-03-11,15:25:05,Critical,Unit 2 General Alarm,2026-03-11 15:25:05
+2026-03-11,15:25:19,Information,Unit 2 General Alarm has been restored,2026-03-11 15:25:19
+2026-03-11,16:07:35,Information,Charger Preventive Alarm,2026-03-11 16:07:35
+2026-03-11,17:54:06,Information,Phase Rotation fault has been restored,2026-03-11 17:54:06
+2026-03-11,18:15:45,Information,Operating on Battery has been restored,2026-03-11 18:15:45
+2026-03-11,22:51:26,Critical,Unit 2 General Alarm,2026-03-11 22:51:26
+2026-03-12,01:03:10,Information,Phase Rotation fault has been restored,2026-03-12 01:03:10
+2026-03-12,03:44:52,Information,Unit 2 General Alarm has been restored,2026-03-12 03:44:52
+2026-03-12,04:23:06,Information,UPS connected,2026-03-12 04:23:06
+2026-03-12,09:52:49,Information,Phase Rotation fault has been restored,2026-03-12 09:52:49
+2026-03-12,10:58:50,Information,Operating on Battery has been restored,2026-03-12 10:58:50
+2026-03-12,13:20:13,Information,Operating on Battery has been restored,2026-03-12 13:20:13
+2026-03-12,14:43:57,Information,Charger Preventive Alarm,2026-03-12 14:43:57
+2026-03-12,15:42:10,Information,Unit 2 General Alarm has been restored,2026-03-12 15:42:10
+2026-03-12,16:49:01,Information,Load protected by Inverter,2026-03-12 16:49:01
+2026-03-12,19:01:51,Information,Unit 1 General Alarm has been restored,2026-03-12 19:01:51
+2026-03-12,21:15:29,Information,General Alarm has been restored,2026-03-12 21:15:29
+2026-03-13,00:07:26,Critical,Unit 2 General Alarm,2026-03-13 00:07:26
+2026-03-13,00:39:57,Information,Charger Preventive Alarm,2026-03-13 00:39:57
+2026-03-13,05:10:03,Information,Phase Rotation fault has been restored,2026-03-13 05:10:03
+2026-03-13,06:55:51,Information,Load protected by Inverter,2026-03-13 06:55:51
+2026-03-13,07:56:14,Information,Bypass Input Supply not OK has been restored,2026-03-13 07:56:14
+2026-03-13,19:18:54,Warning,Bypass Input Supply not OK,2026-03-13 19:18:54
+2026-03-13,19:20:47,Information,UPS connected,2026-03-13 19:20:47
+2026-03-13,20:06:53,Critical,Unit 1 General Alarm,2026-03-13 20:06:53
+2026-03-13,21:33:28,Critical,Unit 1 General Alarm,2026-03-13 21:33:28
+2026-03-14,01:46:32,Warning,Operating on Battery,2026-03-14 01:46:32
+2026-03-14,04:33:30,Information,Charger Preventive Alarm,2026-03-14 04:33:30
+2026-03-14,05:19:09,Information,Phase Rotation fault has been restored,2026-03-14 05:19:09
+2026-03-14,06:14:53,Warning,Rectifier Input Supply not OK,2026-03-14 06:14:53
+2026-03-14,06:49:15,Information,Operating on Battery has been restored,2026-03-14 06:49:15
+2026-03-14,10:19:30,Warning,Bypass Input Supply not OK,2026-03-14 10:19:30
+2026-03-14,10:22:41,Warning,Bypass Input Supply not OK,2026-03-14 10:22:41
+2026-03-14,11:02:03,Warning,Operating on Battery,2026-03-14 11:02:03
+2026-03-14,14:11:05,Critical,General Alarm,2026-03-14 14:11:05
+2026-03-14,14:14:22,Information,Phase Rotation fault has been restored,2026-03-14 14:14:22
+2026-03-14,16:40:59,Information,Phase Rotation fault has been restored,2026-03-14 16:40:59
+2026-03-14,17:14:35,Information,Charger Preventive Alarm has been restored,2026-03-14 17:14:35
+2026-03-14,17:26:12,Warning,Bypass Input Supply not OK,2026-03-14 17:26:12
+2026-03-14,18:20:28,Critical,Unit 1 General Alarm,2026-03-14 18:20:28
+2026-03-14,18:50:26,Warning,Operating on Battery,2026-03-14 18:50:26
+2026-03-14,19:22:33,Information,Unit 1 General Alarm has been restored,2026-03-14 19:22:33
+2026-03-14,22:25:34,Critical,Unit 1 General Alarm,2026-03-14 22:25:34
+2026-03-14,23:12:58,Information,Rectifier Input Supply not OK has been restored,2026-03-14 23:12:58
+2026-03-15,04:45:34,Information,Rectifier Input Supply not OK has been restored,2026-03-15 04:45:34
+2026-03-15,08:02:15,Information,Unit 1 General Alarm has been restored,2026-03-15 08:02:15
+2026-03-15,09:22:35,Information,UPS connected,2026-03-15 09:22:35
+2026-03-15,10:11:43,Warning,Rectifier Input Supply not OK,2026-03-15 10:11:43
+2026-03-15,11:44:08,Information,Load protected by Inverter,2026-03-15 11:44:08
+2026-03-15,13:15:31,Information,Rectifier Input Supply not OK has been restored,2026-03-15 13:15:31
+2026-03-15,15:26:24,Information,Rectifier Input Supply not OK has been restored,2026-03-15 15:26:24
+2026-03-15,19:12:18,Information,Phase Rotation fault has been restored,2026-03-15 19:12:18
+2026-03-15,20:20:25,Information,Charger Preventive Alarm has been restored,2026-03-15 20:20:25
+2026-03-15,21:17:18,Information,Phase Rotation fault has been restored,2026-03-15 21:17:18
+2026-03-16,00:52:41,Warning,Operating on Battery,2026-03-16 00:52:41
+2026-03-16,00:54:33,Warning,Rectifier Input Supply not OK,2026-03-16 00:54:33
+2026-03-16,01:21:07,Information,Rectifier Input Supply not OK has been restored,2026-03-16 01:21:07
+2026-03-16,01:49:59,Information,General Alarm has been restored,2026-03-16 01:49:59
+2026-03-16,05:43:30,Critical,Unit 2 General Alarm,2026-03-16 05:43:30
+2026-03-16,07:32:52,Information,Rectifier Input Supply not OK has been restored,2026-03-16 07:32:52
+2026-03-16,09:52:17,Information,Operating on Battery has been restored,2026-03-16 09:52:17
+2026-03-16,10:00:09,Warning,Bypass Input Supply not OK,2026-03-16 10:00:09
+2026-03-16,13:19:14,Information,Charger Preventive Alarm,2026-03-16 13:19:14
+2026-03-16,13:49:27,Information,General Alarm has been restored,2026-03-16 13:49:27
+2026-03-16,14:06:38,Information,Phase Rotation fault has been restored,2026-03-16 14:06:38
+2026-03-16,17:39:33,Information,UPS connected,2026-03-16 17:39:33
+2026-03-16,20:08:03,Warning,UPS not connected,2026-03-16 20:08:03
+2026-03-16,22:55:04,Information,Unit 1 General Alarm has been restored,2026-03-16 22:55:04
+2026-03-17,01:05:43,Information,Phase Rotation fault has been restored,2026-03-17 01:05:43
+2026-03-17,06:10:10,Critical,Unit 2 General Alarm,2026-03-17 06:10:10
+2026-03-17,17:25:46,Information,Rectifier Input Supply not OK has been restored,2026-03-17 17:25:46
+2026-03-17,17:51:06,Warning,Operating on Battery,2026-03-17 17:51:06
+2026-03-17,21:06:50,Warning,Rectifier Input Supply not OK,2026-03-17 21:06:50
+2026-03-17,21:58:45,Information,Phase Rotation fault has been restored,2026-03-17 21:58:45
+2026-03-17,22:43:22,Information,Bypass Input Supply not OK has been restored,2026-03-17 22:43:22
+2026-03-18,11:52:04,Information,UPS connected,2026-03-18 11:52:04
+2026-03-18,11:59:06,Information,UPS connected,2026-03-18 11:59:06
+2026-03-18,15:08:50,Warning,Operating on Battery,2026-03-18 15:08:50
+2026-03-18,17:39:31,Information,Charger Preventive Alarm,2026-03-18 17:39:31
+2026-03-18,18:47:33,Information,Load protected by Inverter,2026-03-18 18:47:33
+2026-03-18,20:09:30,Information,Load protected by Inverter,2026-03-18 20:09:30
+2026-03-18,21:28:28,Information,Charger Preventive Alarm has been restored,2026-03-18 21:28:28
+2026-03-19,05:58:54,Information,Charger Preventive Alarm,2026-03-19 05:58:54
+2026-03-19,06:38:57,Warning,UPS not connected,2026-03-19 06:38:57
+2026-03-19,06:54:17,Information,Charger Preventive Alarm has been restored,2026-03-19 06:54:17
+2026-03-19,10:19:59,Warning,Bypass Input Supply not OK,2026-03-19 10:19:59
+2026-03-19,10:41:15,Warning,UPS not connected,2026-03-19 10:41:15
+2026-03-19,11:50:25,Information,Unit 1 General Alarm has been restored,2026-03-19 11:50:25
+2026-03-19,12:36:10,Information,Charger Preventive Alarm has been restored,2026-03-19 12:36:10
+2026-03-19,15:16:20,Warning,Operating on Battery,2026-03-19 15:16:20
+2026-03-19,17:21:00,Information,Rectifier Input Supply not OK has been restored,2026-03-19 17:21:00
+2026-03-19,21:39:03,Information,Charger Preventive Alarm has been restored,2026-03-19 21:39:03
+2026-03-19,22:47:29,Warning,Rectifier Input Supply not OK,2026-03-19 22:47:29
+2026-03-20,03:43:39,Information,Phase Rotation fault has been restored,2026-03-20 03:43:39
+2026-03-20,05:41:15,Information,Load protected by Inverter,2026-03-20 05:41:15
+2026-03-20,06:57:49,Critical,Unit 2 General Alarm,2026-03-20 06:57:49
+2026-03-20,09:35:30,Critical,Unit 2 General Alarm,2026-03-20 09:35:30
+2026-03-20,10:25:38,Warning,Operating on Battery,2026-03-20 10:25:38
+2026-03-20,16:18:53,Warning,UPS not connected,2026-03-20 16:18:53
+2026-03-20,17:12:22,Information,Unit 1 General Alarm has been restored,2026-03-20 17:12:22
+2026-03-21,03:13:55,Information,Load protected by Inverter,2026-03-21 03:13:55
+2026-03-21,14:18:29,Warning,Phase Rotation fault,2026-03-21 14:18:29
+2026-03-21,15:31:23,Information,Rectifier Input Supply not OK has been restored,2026-03-21 15:31:23
+2026-03-21,16:57:57,Information,General Alarm has been restored,2026-03-21 16:57:57
+2026-03-21,18:45:09,Critical,Unit 2 General Alarm,2026-03-21 18:45:09
+2026-03-21,19:57:05,Information,Operating on Battery has been restored,2026-03-21 19:57:05
+2026-03-22,08:17:24,Information,Bypass Input Supply not OK has been restored,2026-03-22 08:17:24
+2026-03-22,08:48:47,Warning,UPS not connected,2026-03-22 08:48:47
+2026-03-22,12:53:51,Information,Load protected by Inverter,2026-03-22 12:53:51
+2026-03-22,13:27:43,Information,Rectifier Input Supply not OK has been restored,2026-03-22 13:27:43
+2026-03-22,13:59:01,Information,Operating on Battery has been restored,2026-03-22 13:59:01
+2026-03-22,18:12:16,Warning,UPS not connected,2026-03-22 18:12:16
+2026-03-23,01:26:06,Information,Phase Rotation fault has been restored,2026-03-23 01:26:06
+2026-03-23,03:25:12,Warning,UPS not connected,2026-03-23 03:25:12
+2026-03-23,05:01:29,Critical,Unit 2 General Alarm,2026-03-23 05:01:29
+2026-03-23,06:59:52,Warning,Bypass Input Supply not OK,2026-03-23 06:59:52
+2026-03-23,07:03:47,Information,Rectifier Input Supply not OK has been restored,2026-03-23 07:03:47
+2026-03-23,08:57:52,Critical,Unit 1 General Alarm,2026-03-23 08:57:52
+2026-03-23,09:14:22,Critical,General Alarm,2026-03-23 09:14:22
+2026-03-23,10:50:41,Warning,Operating on Battery,2026-03-23 10:50:41
+2026-03-23,11:37:29,Information,General Alarm has been restored,2026-03-23 11:37:29
+2026-03-23,11:53:31,Information,Operating on Battery has been restored,2026-03-23 11:53:31
+2026-03-23,17:09:06,Information,Charger Preventive Alarm,2026-03-23 17:09:06
+2026-03-23,19:53:54,Information,Rectifier Input Supply not OK has been restored,2026-03-23 19:53:54
+2026-03-23,20:19:47,Information,Phase Rotation fault has been restored,2026-03-23 20:19:47
+2026-03-23,23:03:21,Warning,Rectifier Input Supply not OK,2026-03-23 23:03:21
+2026-03-24,01:25:38,Information,Unit 2 General Alarm has been restored,2026-03-24 01:25:38
+2026-03-24,01:58:35,Warning,Rectifier Input Supply not OK,2026-03-24 01:58:35
+2026-03-24,03:05:56,Information,UPS connected,2026-03-24 03:05:56
+2026-03-24,03:37:39,Critical,Unit 2 General Alarm,2026-03-24 03:37:39
+2026-03-24,08:03:10,Information,Charger Preventive Alarm,2026-03-24 08:03:10
+2026-03-24,11:07:23,Information,Phase Rotation fault has been restored,2026-03-24 11:07:23
+2026-03-24,12:33:40,Warning,Rectifier Input Supply not OK,2026-03-24 12:33:40
+2026-03-24,14:33:08,Information,Bypass Input Supply not OK has been restored,2026-03-24 14:33:08
+2026-03-24,16:02:42,Critical,General Alarm,2026-03-24 16:02:42
+2026-03-24,16:03:25,Critical,Unit 2 General Alarm,2026-03-24 16:03:25
+2026-03-24,22:06:43,Warning,Rectifier Input Supply not OK,2026-03-24 22:06:43
+2026-03-25,00:14:55,Information,Bypass Input Supply not OK has been restored,2026-03-25 00:14:55
+2026-03-25,07:37:57,Information,Phase Rotation fault has been restored,2026-03-25 07:37:57
+2026-03-25,12:19:05,Critical,Unit 1 General Alarm,2026-03-25 12:19:05
+2026-03-25,15:15:25,Warning,Rectifier Input Supply not OK,2026-03-25 15:15:25
+2026-03-25,17:46:26,Warning,Phase Rotation fault,2026-03-25 17:46:26
+2026-03-25,18:04:41,Information,Rectifier Input Supply not OK has been restored,2026-03-25 18:04:41
+2026-03-25,19:58:46,Information,Load protected by Inverter,2026-03-25 19:58:46
+2026-03-25,21:29:42,Information,Charger Preventive Alarm,2026-03-25 21:29:42
+2026-03-26,00:19:41,Information,Operating on Battery has been restored,2026-03-26 00:19:41
+2026-03-26,03:43:00,Information,Phase Rotation fault has been restored,2026-03-26 03:43:00
+2026-03-26,06:47:14,Critical,Unit 2 General Alarm,2026-03-26 06:47:14
+2026-03-26,09:09:16,Information,Bypass Input Supply not OK has been restored,2026-03-26 09:09:16
+2026-03-26,12:24:26,Information,Rectifier Input Supply not OK has been restored,2026-03-26 12:24:26
+2026-03-26,12:58:57,Information,Charger Preventive Alarm has been restored,2026-03-26 12:58:57
+2026-03-26,13:51:20,Warning,Bypass Input Supply not OK,2026-03-26 13:51:20
+2026-03-26,16:33:20,Critical,General Alarm,2026-03-26 16:33:20
+2026-03-26,22:12:55,Critical,General Alarm,2026-03-26 22:12:55
+2026-03-27,02:14:59,Information,Phase Rotation fault has been restored,2026-03-27 02:14:59
+2026-03-27,02:40:29,Information,Load protected by Inverter,2026-03-27 02:40:29
+2026-03-27,04:37:29,Warning,Rectifier Input Supply not OK,2026-03-27 04:37:29
+2026-03-27,04:44:46,Information,Operating on Battery has been restored,2026-03-27 04:44:46
+2026-03-27,06:39:26,Information,Operating on Battery has been restored,2026-03-27 06:39:26
+2026-03-27,06:42:47,Warning,UPS not connected,2026-03-27 06:42:47
+2026-03-27,09:13:54,Information,UPS connected,2026-03-27 09:13:54
+2026-03-27,14:56:30,Warning,Operating on Battery,2026-03-27 14:56:30
+2026-03-27,15:58:24,Critical,General Alarm,2026-03-27 15:58:24
+2026-03-27,17:18:10,Warning,Operating on Battery,2026-03-27 17:18:10
+2026-03-27,17:23:32,Information,Operating on Battery has been restored,2026-03-27 17:23:32
+2026-03-27,17:59:24,Information,General Alarm has been restored,2026-03-27 17:59:24
+2026-03-27,19:48:48,Warning,Bypass Input Supply not OK,2026-03-27 19:48:48
+2026-03-27,21:56:30,Information,UPS connected,2026-03-27 21:56:30
+2026-03-27,22:26:14,Critical,Unit 2 General Alarm,2026-03-27 22:26:14
+2026-03-27,23:48:22,Critical,General Alarm,2026-03-27 23:48:22
+2026-03-28,01:53:31,Information,Operating on Battery has been restored,2026-03-28 01:53:31
+2026-03-28,02:24:01,Warning,Operating on Battery,2026-03-28 02:24:01
+2026-03-28,04:11:39,Warning,Bypass Input Supply not OK,2026-03-28 04:11:39
+2026-03-28,04:16:11,Information,Unit 1 General Alarm has been restored,2026-03-28 04:16:11
+2026-03-28,05:23:14,Information,Charger Preventive Alarm has been restored,2026-03-28 05:23:14
+2026-03-28,08:23:25,Information,Rectifier Input Supply not OK has been restored,2026-03-28 08:23:25
+2026-03-28,14:04:32,Warning,Phase Rotation fault,2026-03-28 14:04:32
+2026-03-28,14:07:30,Information,Rectifier Input Supply not OK has been restored,2026-03-28 14:07:30
+2026-03-28,14:28:03,Information,Operating on Battery has been restored,2026-03-28 14:28:03
+2026-03-28,15:06:18,Information,Unit 2 General Alarm has been restored,2026-03-28 15:06:18
+2026-03-28,18:13:35,Information,General Alarm has been restored,2026-03-28 18:13:35
+2026-03-28,21:43:08,Information,General Alarm has been restored,2026-03-28 21:43:08
+2026-03-28,23:18:44,Warning,Phase Rotation fault,2026-03-28 23:18:44
+2026-03-29,00:35:33,Information,Phase Rotation fault has been restored,2026-03-29 00:35:33
+2026-03-29,01:17:01,Critical,General Alarm,2026-03-29 01:17:01
+2026-03-29,01:57:59,Warning,Rectifier Input Supply not OK,2026-03-29 01:57:59
+2026-03-29,02:19:13,Critical,General Alarm,2026-03-29 02:19:13
+2026-03-29,02:47:38,Information,Operating on Battery has been restored,2026-03-29 02:47:38
+2026-03-29,06:46:14,Information,Unit 2 General Alarm has been restored,2026-03-29 06:46:14
+2026-03-29,10:36:17,Information,Unit 1 General Alarm has been restored,2026-03-29 10:36:17
+2026-03-29,10:54:36,Information,Load protected by Inverter,2026-03-29 10:54:36
+2026-03-29,13:31:07,Information,Operating on Battery has been restored,2026-03-29 13:31:07
+2026-03-29,14:03:49,Critical,General Alarm,2026-03-29 14:03:49
+2026-03-29,14:20:12,Information,Operating on Battery has been restored,2026-03-29 14:20:12
+2026-03-29,15:42:41,Information,Charger Preventive Alarm,2026-03-29 15:42:41
+2026-03-29,16:09:07,Information,Bypass Input Supply not OK has been restored,2026-03-29 16:09:07
+2026-03-29,16:13:43,Information,UPS connected,2026-03-29 16:13:43
+2026-03-29,17:33:34,Information,Operating on Battery has been restored,2026-03-29 17:33:34
+2026-03-29,20:10:47,Critical,General Alarm,2026-03-29 20:10:47
+2026-03-29,21:16:25,Information,Rectifier Input Supply not OK has been restored,2026-03-29 21:16:25
+2026-03-29,23:47:47,Information,Bypass Input Supply not OK has been restored,2026-03-29 23:47:47
+2026-03-30,01:44:31,Information,Operating on Battery has been restored,2026-03-30 01:44:31
+2026-03-30,02:41:47,Critical,Unit 1 General Alarm,2026-03-30 02:41:47
+2026-03-30,07:35:22,Information,Rectifier Input Supply not OK has been restored,2026-03-30 07:35:22
+2026-03-30,07:37:28,Information,Unit 2 General Alarm has been restored,2026-03-30 07:37:28
+2026-03-30,12:11:39,Warning,Operating on Battery,2026-03-30 12:11:39
+2026-03-30,13:29:20,Information,Charger Preventive Alarm has been restored,2026-03-30 13:29:20
+2026-03-30,13:52:34,Information,General Alarm has been restored,2026-03-30 13:52:34
+2026-03-30,14:22:03,Information,Rectifier Input Supply not OK has been restored,2026-03-30 14:22:03
+2026-03-30,17:11:40,Information,Load protected by Inverter,2026-03-30 17:11:40
+2026-03-30,20:37:26,Warning,UPS not connected,2026-03-30 20:37:26
+2026-03-30,20:57:51,Information,Load protected by Inverter,2026-03-30 20:57:51
+2026-03-30,21:39:47,Information,General Alarm has been restored,2026-03-30 21:39:47
+2026-03-30,23:50:52,Warning,UPS not connected,2026-03-30 23:50:52
+2026-03-31,03:28:13,Information,Operating on Battery has been restored,2026-03-31 03:28:13
+2026-03-31,04:29:04,Information,Unit 1 General Alarm has been restored,2026-03-31 04:29:04
+2026-03-31,04:54:47,Information,Rectifier Input Supply not OK has been restored,2026-03-31 04:54:47
+2026-03-31,05:52:00,Critical,Unit 2 General Alarm,2026-03-31 05:52:00
+2026-03-31,08:18:17,Critical,General Alarm,2026-03-31 08:18:17
+2026-03-31,09:17:30,Information,Operating on Battery has been restored,2026-03-31 09:17:30
+2026-03-31,15:36:07,Information,Phase Rotation fault has been restored,2026-03-31 15:36:07
+2026-03-31,15:40:34,Warning,Bypass Input Supply not OK,2026-03-31 15:40:34
+2026-03-31,16:46:36,Information,Charger Preventive Alarm,2026-03-31 16:46:36
+2026-03-31,17:31:32,Information,Operating on Battery has been restored,2026-03-31 17:31:32
+2026-03-31,23:21:00,Critical,Unit 2 General Alarm,2026-03-31 23:21:00
+2026-04-01,01:56:01,Warning,Bypass Input Supply not OK,2026-04-01 01:56:01
+2026-04-01,05:27:31,Information,General Alarm has been restored,2026-04-01 05:27:31
+2026-04-01,11:39:36,Information,Charger Preventive Alarm,2026-04-01 11:39:36
+2026-04-01,11:58:49,Information,Bypass Input Supply not OK has been restored,2026-04-01 11:58:49
+2026-04-01,12:45:30,Warning,Operating on Battery,2026-04-01 12:45:30
+2026-04-01,13:19:04,Information,Charger Preventive Alarm has been restored,2026-04-01 13:19:04
+2026-04-01,15:45:15,Critical,Unit 1 General Alarm,2026-04-01 15:45:15
+2026-04-01,17:49:48,Information,Unit 1 General Alarm has been restored,2026-04-01 17:49:48
+2026-04-01,18:33:05,Warning,UPS not connected,2026-04-01 18:33:05
+2026-04-01,18:51:54,Information,Unit 2 General Alarm has been restored,2026-04-01 18:51:54
+2026-04-01,19:51:57,Warning,Rectifier Input Supply not OK,2026-04-01 19:51:57
+2026-04-01,21:42:30,Information,Operating on Battery has been restored,2026-04-01 21:42:30
+2026-04-01,23:09:47,Critical,Unit 1 General Alarm,2026-04-01 23:09:47
+2026-04-01,23:17:45,Warning,Operating on Battery,2026-04-01 23:17:45
+2026-04-02,07:46:10,Information,Operating on Battery has been restored,2026-04-02 07:46:10
+2026-04-02,10:44:16,Information,Rectifier Input Supply not OK has been restored,2026-04-02 10:44:16
+2026-04-02,14:10:10,Warning,UPS not connected,2026-04-02 14:10:10
+2026-04-02,15:04:43,Information,Operating on Battery has been restored,2026-04-02 15:04:43
+2026-04-02,15:44:56,Warning,UPS not connected,2026-04-02 15:44:56
+2026-04-02,15:53:19,Warning,Operating on Battery,2026-04-02 15:53:19
+2026-04-02,16:19:38,Warning,Bypass Input Supply not OK,2026-04-02 16:19:38
+2026-04-02,17:53:07,Information,Rectifier Input Supply not OK has been restored,2026-04-02 17:53:07
+2026-04-02,20:17:31,Critical,Unit 2 General Alarm,2026-04-02 20:17:31
+2026-04-02,23:31:38,Information,Operating on Battery has been restored,2026-04-02 23:31:38
+2026-04-03,00:32:40,Warning,Bypass Input Supply not OK,2026-04-03 00:32:40
+2026-04-03,09:03:55,Warning,UPS not connected,2026-04-03 09:03:55
+2026-04-03,13:29:48,Information,Load protected by Inverter,2026-04-03 13:29:48
+2026-04-03,13:53:33,Warning,Bypass Input Supply not OK,2026-04-03 13:53:33
+2026-04-03,15:19:22,Information,Bypass Input Supply not OK has been restored,2026-04-03 15:19:22
+2026-04-03,20:01:19,Warning,Operating on Battery,2026-04-03 20:01:19
+2026-04-03,21:28:24,Information,Operating on Battery has been restored,2026-04-03 21:28:24
+2026-04-03,22:02:10,Information,Load protected by Inverter,2026-04-03 22:02:10
+2026-04-03,23:33:12,Information,Phase Rotation fault has been restored,2026-04-03 23:33:12
+2026-04-04,03:47:14,Warning,Rectifier Input Supply not OK,2026-04-04 03:47:14
+2026-04-04,07:08:34,Information,Phase Rotation fault has been restored,2026-04-04 07:08:34
+2026-04-04,10:17:11,Information,Phase Rotation fault has been restored,2026-04-04 10:17:11
+2026-04-04,13:05:58,Critical,Unit 1 General Alarm,2026-04-04 13:05:58
+2026-04-04,18:04:19,Information,General Alarm has been restored,2026-04-04 18:04:19
+2026-04-04,20:48:07,Information,Charger Preventive Alarm has been restored,2026-04-04 20:48:07
+2026-04-04,22:38:58,Information,Load protected by Inverter,2026-04-04 22:38:58
+2026-04-04,23:05:52,Information,Charger Preventive Alarm,2026-04-04 23:05:52
+2026-04-05,00:29:29,Warning,UPS not connected,2026-04-05 00:29:29
+2026-04-05,00:31:53,Warning,Bypass Input Supply not OK,2026-04-05 00:31:53
+2026-04-05,01:22:31,Warning,Phase Rotation fault,2026-04-05 01:22:31
+2026-04-05,02:02:15,Warning,Phase Rotation fault,2026-04-05 02:02:15
+2026-04-05,05:52:05,Warning,Phase Rotation fault,2026-04-05 05:52:05
+2026-04-05,11:27:30,Information,Phase Rotation fault has been restored,2026-04-05 11:27:30
+2026-04-05,12:33:00,Critical,Unit 1 General Alarm,2026-04-05 12:33:00
+2026-04-05,12:49:02,Information,Unit 2 General Alarm has been restored,2026-04-05 12:49:02
+2026-04-05,18:02:41,Information,Operating on Battery has been restored,2026-04-05 18:02:41
+2026-04-05,18:40:33,Critical,Unit 1 General Alarm,2026-04-05 18:40:33
+2026-04-05,19:57:44,Information,Charger Preventive Alarm,2026-04-05 19:57:44
+2026-04-05,20:20:08,Information,Load protected by Inverter,2026-04-05 20:20:08
+2026-04-05,20:25:55,Information,Rectifier Input Supply not OK has been restored,2026-04-05 20:25:55
+2026-04-05,21:00:46,Information,Unit 2 General Alarm has been restored,2026-04-05 21:00:46
+2026-04-05,21:49:10,Information,Bypass Input Supply not OK has been restored,2026-04-05 21:49:10
+2026-04-05,23:35:35,Critical,Unit 2 General Alarm,2026-04-05 23:35:35
+2026-04-06,04:41:38,Information,Charger Preventive Alarm has been restored,2026-04-06 04:41:38
+2026-04-06,06:09:53,Information,Operating on Battery has been restored,2026-04-06 06:09:53
+2026-04-06,08:08:06,Warning,Rectifier Input Supply not OK,2026-04-06 08:08:06
+2026-04-06,10:07:01,Information,Unit 1 General Alarm has been restored,2026-04-06 10:07:01
+2026-04-06,10:51:52,Warning,Rectifier Input Supply not OK,2026-04-06 10:51:52
+2026-04-06,11:51:26,Warning,UPS not connected,2026-04-06 11:51:26
+2026-04-06,11:56:17,Information,Load protected by Inverter,2026-04-06 11:56:17
+2026-04-06,14:03:07,Information,Rectifier Input Supply not OK has been restored,2026-04-06 14:03:07
+2026-04-06,15:59:28,Warning,Rectifier Input Supply not OK,2026-04-06 15:59:28
+2026-04-06,16:48:04,Warning,Rectifier Input Supply not OK,2026-04-06 16:48:04
+2026-04-06,17:19:13,Information,Bypass Input Supply not OK has been restored,2026-04-06 17:19:13
+2026-04-06,17:21:16,Information,UPS connected,2026-04-06 17:21:16
+2026-04-06,19:46:45,Information,Charger Preventive Alarm has been restored,2026-04-06 19:46:45
+2026-04-07,01:58:35,Information,Charger Preventive Alarm has been restored,2026-04-07 01:58:35
+2026-04-07,02:33:16,Information,Rectifier Input Supply not OK has been restored,2026-04-07 02:33:16
+2026-04-07,12:36:06,Information,Unit 1 General Alarm has been restored,2026-04-07 12:36:06
+2026-04-07,13:16:36,Information,Charger Preventive Alarm,2026-04-07 13:16:36
+2026-04-07,14:21:49,Warning,Phase Rotation fault,2026-04-07 14:21:49
+2026-04-07,16:51:48,Information,Load protected by Inverter,2026-04-07 16:51:48
+2026-04-07,19:30:31,Information,Unit 1 General Alarm has been restored,2026-04-07 19:30:31
+2026-04-07,23:46:03,Information,Charger Preventive Alarm,2026-04-07 23:46:03
+2026-04-08,00:08:51,Warning,UPS not connected,2026-04-08 00:08:51
+2026-04-08,00:23:59,Critical,Unit 1 General Alarm,2026-04-08 00:23:59
+2026-04-08,01:18:48,Critical,General Alarm,2026-04-08 01:18:48
+2026-04-08,01:34:53,Information,Charger Preventive Alarm has been restored,2026-04-08 01:34:53
+2026-04-08,03:20:33,Critical,Unit 2 General Alarm,2026-04-08 03:20:33
+2026-04-08,04:10:19,Information,Charger Preventive Alarm,2026-04-08 04:10:19
+2026-04-08,06:01:56,Information,Charger Preventive Alarm,2026-04-08 06:01:56
+2026-04-08,06:47:49,Warning,Rectifier Input Supply not OK,2026-04-08 06:47:49
+2026-04-08,06:54:50,Information,Unit 2 General Alarm has been restored,2026-04-08 06:54:50
+2026-04-08,07:11:57,Information,General Alarm has been restored,2026-04-08 07:11:57
+2026-04-08,07:51:14,Warning,Operating on Battery,2026-04-08 07:51:14
+2026-04-08,11:35:09,Information,Phase Rotation fault has been restored,2026-04-08 11:35:09
+2026-04-08,11:52:51,Critical,Unit 2 General Alarm,2026-04-08 11:52:51
+2026-04-08,12:09:38,Critical,Unit 1 General Alarm,2026-04-08 12:09:38
+2026-04-08,21:29:47,Information,Phase Rotation fault has been restored,2026-04-08 21:29:47
+2026-04-09,00:46:32,Information,Charger Preventive Alarm,2026-04-09 00:46:32
+2026-04-09,03:35:10,Warning,Bypass Input Supply not OK,2026-04-09 03:35:10
+2026-04-09,04:23:47,Information,UPS connected,2026-04-09 04:23:47
+2026-04-09,04:39:47,Information,Charger Preventive Alarm has been restored,2026-04-09 04:39:47
+2026-04-09,07:52:39,Information,Phase Rotation fault has been restored,2026-04-09 07:52:39
+2026-04-09,08:22:32,Warning,Phase Rotation fault,2026-04-09 08:22:32
+2026-04-09,11:42:52,Warning,Operating on Battery,2026-04-09 11:42:52
+2026-04-09,16:25:20,Information,Unit 1 General Alarm has been restored,2026-04-09 16:25:20
+2026-04-09,16:53:06,Warning,Bypass Input Supply not OK,2026-04-09 16:53:06
+2026-04-09,18:40:38,Information,Charger Preventive Alarm has been restored,2026-04-09 18:40:38
+2026-04-09,20:19:11,Information,UPS connected,2026-04-09 20:19:11
+2026-04-09,20:35:34,Information,Bypass Input Supply not OK has been restored,2026-04-09 20:35:34
+2026-04-10,04:41:11,Information,General Alarm has been restored,2026-04-10 04:41:11
+2026-04-10,06:23:37,Information,General Alarm has been restored,2026-04-10 06:23:37
+2026-04-10,08:36:00,Information,Operating on Battery has been restored,2026-04-10 08:36:00
+2026-04-10,08:39:43,Information,Unit 2 General Alarm has been restored,2026-04-10 08:39:43
+2026-04-10,08:54:51,Information,Unit 2 General Alarm has been restored,2026-04-10 08:54:51
+2026-04-10,09:37:41,Warning,UPS not connected,2026-04-10 09:37:41
+2026-04-10,10:22:25,Warning,Phase Rotation fault,2026-04-10 10:22:25
+2026-04-10,10:55:22,Critical,Unit 1 General Alarm,2026-04-10 10:55:22
+2026-04-10,10:58:03,Information,Rectifier Input Supply not OK has been restored,2026-04-10 10:58:03
+2026-04-10,12:19:55,Information,Load protected by Inverter,2026-04-10 12:19:55
+2026-04-10,17:07:34,Critical,Unit 1 General Alarm,2026-04-10 17:07:34
+2026-04-10,19:54:20,Information,Rectifier Input Supply not OK has been restored,2026-04-10 19:54:20
+2026-04-10,21:35:02,Critical,Unit 2 General Alarm,2026-04-10 21:35:02
+2026-04-11,09:19:05,Information,Charger Preventive Alarm,2026-04-11 09:19:05
+2026-04-11,09:47:21,Information,Charger Preventive Alarm has been restored,2026-04-11 09:47:21
+2026-04-11,10:21:55,Information,Unit 1 General Alarm has been restored,2026-04-11 10:21:55
+2026-04-11,12:36:35,Information,Rectifier Input Supply not OK has been restored,2026-04-11 12:36:35
+2026-04-11,13:16:29,Information,UPS connected,2026-04-11 13:16:29
+2026-04-11,13:30:29,Information,Phase Rotation fault has been restored,2026-04-11 13:30:29
+2026-04-11,14:14:13,Warning,Phase Rotation fault,2026-04-11 14:14:13
+2026-04-11,15:40:29,Information,Charger Preventive Alarm,2026-04-11 15:40:29
+2026-04-11,18:27:05,Information,Unit 2 General Alarm has been restored,2026-04-11 18:27:05
+2026-04-11,20:17:12,Information,UPS connected,2026-04-11 20:17:12
+2026-04-11,21:53:49,Information,Charger Preventive Alarm,2026-04-11 21:53:49
+2026-04-11,22:08:29,Information,Phase Rotation fault has been restored,2026-04-11 22:08:29
+2026-04-11,23:04:00,Warning,UPS not connected,2026-04-11 23:04:00
+2026-04-12,01:23:50,Critical,Unit 1 General Alarm,2026-04-12 01:23:50
+2026-04-12,02:50:34,Information,Unit 2 General Alarm has been restored,2026-04-12 02:50:34
+2026-04-12,03:12:52,Information,Bypass Input Supply not OK has been restored,2026-04-12 03:12:52
+2026-04-12,03:26:57,Information,Rectifier Input Supply not OK has been restored,2026-04-12 03:26:57
+2026-04-12,05:11:53,Information,Unit 2 General Alarm has been restored,2026-04-12 05:11:53
+2026-04-12,11:20:43,Warning,Rectifier Input Supply not OK,2026-04-12 11:20:43
+2026-04-12,11:20:48,Information,UPS connected,2026-04-12 11:20:48
+2026-04-12,15:41:45,Critical,Unit 2 General Alarm,2026-04-12 15:41:45
+2026-04-12,15:53:39,Critical,Unit 1 General Alarm,2026-04-12 15:53:39
+2026-04-12,18:35:22,Information,Bypass Input Supply not OK has been restored,2026-04-12 18:35:22
+2026-04-12,19:12:07,Information,Bypass Input Supply not OK has been restored,2026-04-12 19:12:07
+2026-04-12,22:30:51,Critical,Unit 2 General Alarm,2026-04-12 22:30:51
+2026-04-12,22:44:36,Information,Phase Rotation fault has been restored,2026-04-12 22:44:36
+2026-04-13,06:19:25,Warning,Bypass Input Supply not OK,2026-04-13 06:19:25
+2026-04-13,11:44:20,Critical,General Alarm,2026-04-13 11:44:20
+2026-04-13,13:21:58,Critical,Unit 2 General Alarm,2026-04-13 13:21:58
+2026-04-13,14:07:09,Information,Phase Rotation fault has been restored,2026-04-13 14:07:09
+2026-04-13,14:59:25,Information,Unit 1 General Alarm has been restored,2026-04-13 14:59:25
+2026-04-13,16:01:26,Information,Unit 2 General Alarm has been restored,2026-04-13 16:01:26
+2026-04-13,18:26:42,Information,Bypass Input Supply not OK has been restored,2026-04-13 18:26:42
+2026-04-13,18:29:29,Information,Rectifier Input Supply not OK has been restored,2026-04-13 18:29:29
+2026-04-13,21:19:08,Critical,Unit 1 General Alarm,2026-04-13 21:19:08
+2026-04-13,22:38:11,Information,Rectifier Input Supply not OK has been restored,2026-04-13 22:38:11
+2026-04-13,23:54:53,Critical,General Alarm,2026-04-13 23:54:53
+2026-04-14,07:33:46,Warning,Operating on Battery,2026-04-14 07:33:46
+2026-04-14,09:27:42,Critical,Unit 1 General Alarm,2026-04-14 09:27:42
+2026-04-14,09:53:33,Warning,Bypass Input Supply not OK,2026-04-14 09:53:33
+2026-04-14,16:24:07,Information,Bypass Input Supply not OK has been restored,2026-04-14 16:24:07
+2026-04-14,18:26:10,Warning,UPS not connected,2026-04-14 18:26:10
+2026-04-14,18:31:47,Information,Unit 1 General Alarm has been restored,2026-04-14 18:31:47
+2026-04-14,22:26:06,Critical,Unit 2 General Alarm,2026-04-14 22:26:06
+2026-04-15,00:35:45,Warning,Rectifier Input Supply not OK,2026-04-15 00:35:45
+2026-04-15,01:00:43,Warning,Bypass Input Supply not OK,2026-04-15 01:00:43
+2026-04-15,03:52:52,Information,General Alarm has been restored,2026-04-15 03:52:52
+2026-04-15,09:04:48,Information,Phase Rotation fault has been restored,2026-04-15 09:04:48
+2026-04-15,10:18:31,Warning,UPS not connected,2026-04-15 10:18:31
+2026-04-15,12:50:49,Information,Charger Preventive Alarm has been restored,2026-04-15 12:50:49
+2026-04-15,13:03:30,Critical,General Alarm,2026-04-15 13:03:30
+2026-04-15,14:34:04,Information,Unit 2 General Alarm has been restored,2026-04-15 14:34:04
+2026-04-15,15:43:32,Warning,UPS not connected,2026-04-15 15:43:32
+2026-04-15,16:39:35,Warning,UPS not connected,2026-04-15 16:39:35
+2026-04-15,19:58:48,Critical,Unit 1 General Alarm,2026-04-15 19:58:48
+2026-04-15,21:39:31,Information,Unit 2 General Alarm has been restored,2026-04-15 21:39:31
+2026-04-15,22:18:20,Information,Bypass Input Supply not OK has been restored,2026-04-15 22:18:20
+2026-04-16,04:55:12,Warning,Bypass Input Supply not OK,2026-04-16 04:55:12
+2026-04-16,06:50:05,Information,Phase Rotation fault has been restored,2026-04-16 06:50:05
+2026-04-16,08:45:02,Information,General Alarm has been restored,2026-04-16 08:45:02
+2026-04-16,09:38:19,Information,Charger Preventive Alarm has been restored,2026-04-16 09:38:19
+2026-04-16,10:21:08,Information,Charger Preventive Alarm has been restored,2026-04-16 10:21:08
+2026-04-16,11:57:48,Information,Unit 2 General Alarm has been restored,2026-04-16 11:57:48
+2026-04-16,15:26:28,Information,Operating on Battery has been restored,2026-04-16 15:26:28
+2026-04-16,15:27:22,Information,Charger Preventive Alarm has been restored,2026-04-16 15:27:22
+2026-04-16,20:16:07,Critical,General Alarm,2026-04-16 20:16:07
+2026-04-16,21:22:30,Critical,General Alarm,2026-04-16 21:22:30
+2026-04-17,00:10:16,Information,Charger Preventive Alarm has been restored,2026-04-17 00:10:16
+2026-04-17,00:41:04,Critical,General Alarm,2026-04-17 00:41:04
+2026-04-17,04:51:44,Information,Operating on Battery has been restored,2026-04-17 04:51:44
+2026-04-17,06:33:49,Information,Unit 2 General Alarm has been restored,2026-04-17 06:33:49
+2026-04-17,10:02:22,Information,Rectifier Input Supply not OK has been restored,2026-04-17 10:02:22
+2026-04-17,10:05:48,Information,Bypass Input Supply not OK has been restored,2026-04-17 10:05:48
+2026-04-17,11:00:15,Information,Charger Preventive Alarm,2026-04-17 11:00:15
+2026-04-17,11:17:16,Warning,UPS not connected,2026-04-17 11:17:16
+2026-04-17,12:00:43,Information,Bypass Input Supply not OK has been restored,2026-04-17 12:00:43
+2026-04-17,16:11:06,Information,Charger Preventive Alarm has been restored,2026-04-17 16:11:06
+2026-04-17,16:53:03,Critical,Unit 1 General Alarm,2026-04-17 16:53:03
+2026-04-17,18:06:09,Critical,Unit 2 General Alarm,2026-04-17 18:06:09
+2026-04-17,19:28:19,Warning,Rectifier Input Supply not OK,2026-04-17 19:28:19
+2026-04-18,00:09:50,Information,Unit 1 General Alarm has been restored,2026-04-18 00:09:50
+2026-04-18,03:27:54,Information,UPS connected,2026-04-18 03:27:54
+2026-04-18,04:34:39,Critical,Unit 1 General Alarm,2026-04-18 04:34:39
+2026-04-18,06:10:03,Information,Rectifier Input Supply not OK has been restored,2026-04-18 06:10:03
+2026-04-18,10:48:16,Critical,Unit 2 General Alarm,2026-04-18 10:48:16
+2026-04-18,11:39:34,Information,Unit 2 General Alarm has been restored,2026-04-18 11:39:34
+2026-04-18,12:19:12,Warning,UPS not connected,2026-04-18 12:19:12
+2026-04-18,12:22:17,Critical,Unit 1 General Alarm,2026-04-18 12:22:17
+2026-04-18,14:39:39,Information,Unit 1 General Alarm has been restored,2026-04-18 14:39:39
+2026-04-18,15:30:24,Critical,Unit 2 General Alarm,2026-04-18 15:30:24
+2026-04-18,15:56:52,Information,Operating on Battery has been restored,2026-04-18 15:56:52
+2026-04-18,21:03:53,Information,UPS connected,2026-04-18 21:03:53
+2026-04-18,22:35:41,Critical,General Alarm,2026-04-18 22:35:41
+2026-04-19,01:26:07,Warning,Rectifier Input Supply not OK,2026-04-19 01:26:07
+2026-04-19,04:54:05,Warning,Rectifier Input Supply not OK,2026-04-19 04:54:05
+2026-04-19,05:59:58,Information,Unit 2 General Alarm has been restored,2026-04-19 05:59:58
+2026-04-19,10:00:26,Information,Unit 2 General Alarm has been restored,2026-04-19 10:00:26
+2026-04-19,11:17:19,Information,Load protected by Inverter,2026-04-19 11:17:19
+2026-04-19,12:09:10,Critical,Unit 1 General Alarm,2026-04-19 12:09:10
+2026-04-19,12:27:01,Information,Unit 1 General Alarm has been restored,2026-04-19 12:27:01
+2026-04-19,13:55:44,Warning,Rectifier Input Supply not OK,2026-04-19 13:55:44
+2026-04-19,15:30:50,Warning,Rectifier Input Supply not OK,2026-04-19 15:30:50
+2026-04-19,16:49:32,Information,Rectifier Input Supply not OK has been restored,2026-04-19 16:49:32
+2026-04-19,17:21:13,Information,UPS connected,2026-04-19 17:21:13
+2026-04-19,17:33:47,Warning,Rectifier Input Supply not OK,2026-04-19 17:33:47
+2026-04-19,18:41:33,Information,Charger Preventive Alarm,2026-04-19 18:41:33
+2026-04-19,22:37:03,Information,Charger Preventive Alarm has been restored,2026-04-19 22:37:03
+2026-04-20,02:48:25,Information,Unit 2 General Alarm has been restored,2026-04-20 02:48:25
+2026-04-20,03:59:53,Information,Load protected by Inverter,2026-04-20 03:59:53
+2026-04-20,04:03:19,Information,Rectifier Input Supply not OK has been restored,2026-04-20 04:03:19
+2026-04-20,07:04:04,Information,Load protected by Inverter,2026-04-20 07:04:04
+2026-04-20,08:29:04,Critical,General Alarm,2026-04-20 08:29:04
+2026-04-20,14:39:37,Information,Rectifier Input Supply not OK has been restored,2026-04-20 14:39:37
+2026-04-20,14:54:14,Information,Operating on Battery has been restored,2026-04-20 14:54:14
+2026-04-20,16:08:12,Warning,UPS not connected,2026-04-20 16:08:12
+2026-04-20,16:18:59,Warning,Bypass Input Supply not OK,2026-04-20 16:18:59
+2026-04-20,18:31:14,Information,Unit 2 General Alarm has been restored,2026-04-20 18:31:14
+2026-04-20,21:12:01,Information,Load protected by Inverter,2026-04-20 21:12:01
+2026-04-20,21:28:51,Warning,UPS not connected,2026-04-20 21:28:51
+2026-04-20,23:34:19,Information,Charger Preventive Alarm has been restored,2026-04-20 23:34:19
+2026-04-21,02:38:23,Warning,Rectifier Input Supply not OK,2026-04-21 02:38:23
+2026-04-21,05:06:30,Information,Phase Rotation fault has been restored,2026-04-21 05:06:30
+2026-04-21,11:20:54,Critical,General Alarm,2026-04-21 11:20:54
+2026-04-21,15:33:16,Critical,Unit 1 General Alarm,2026-04-21 15:33:16
+2026-04-21,15:57:39,Information,Operating on Battery has been restored,2026-04-21 15:57:39
+2026-04-21,17:43:17,Warning,UPS not connected,2026-04-21 17:43:17
+2026-04-21,19:58:36,Information,Charger Preventive Alarm,2026-04-21 19:58:36
+2026-04-21,22:19:51,Information,Load protected by Inverter,2026-04-21 22:19:51
+2026-04-22,00:09:11,Information,Bypass Input Supply not OK has been restored,2026-04-22 00:09:11
+2026-04-22,00:14:24,Critical,Unit 1 General Alarm,2026-04-22 00:14:24
+2026-04-22,00:23:14,Information,Unit 1 General Alarm has been restored,2026-04-22 00:23:14
+2026-04-22,02:37:22,Information,Phase Rotation fault has been restored,2026-04-22 02:37:22
+2026-04-22,03:07:34,Information,UPS connected,2026-04-22 03:07:34
+2026-04-22,03:39:32,Information,Unit 2 General Alarm has been restored,2026-04-22 03:39:32
+2026-04-22,04:41:44,Information,Unit 2 General Alarm has been restored,2026-04-22 04:41:44
+2026-04-22,05:36:19,Information,General Alarm has been restored,2026-04-22 05:36:19
+2026-04-22,05:45:38,Information,Unit 2 General Alarm has been restored,2026-04-22 05:45:38
+2026-04-22,07:36:49,Information,Charger Preventive Alarm,2026-04-22 07:36:49
+2026-04-22,07:38:47,Warning,UPS not connected,2026-04-22 07:38:47
+2026-04-22,21:22:08,Warning,Rectifier Input Supply not OK,2026-04-22 21:22:08
+2026-04-22,22:16:57,Warning,Rectifier Input Supply not OK,2026-04-22 22:16:57
+2026-04-23,04:01:36,Information,Phase Rotation fault has been restored,2026-04-23 04:01:36
+2026-04-23,05:56:57,Critical,Unit 2 General Alarm,2026-04-23 05:56:57
+2026-04-23,06:05:54,Critical,Unit 1 General Alarm,2026-04-23 06:05:54
+2026-04-23,12:07:37,Information,Unit 1 General Alarm has been restored,2026-04-23 12:07:37
+2026-04-23,13:27:47,Warning,Phase Rotation fault,2026-04-23 13:27:47
+2026-04-23,14:22:47,Warning,UPS not connected,2026-04-23 14:22:47
+2026-04-23,14:49:43,Information,Unit 1 General Alarm has been restored,2026-04-23 14:49:43
+2026-04-23,15:13:22,Warning,Phase Rotation fault,2026-04-23 15:13:22
+2026-04-23,17:41:36,Critical,General Alarm,2026-04-23 17:41:36
+2026-04-23,21:03:01,Information,Operating on Battery has been restored,2026-04-23 21:03:01
+2026-04-23,22:14:14,Warning,Operating on Battery,2026-04-23 22:14:14
+2026-04-23,23:29:54,Information,Rectifier Input Supply not OK has been restored,2026-04-23 23:29:54
+2026-04-24,01:11:05,Information,Phase Rotation fault has been restored,2026-04-24 01:11:05
+2026-04-24,01:58:28,Information,Charger Preventive Alarm,2026-04-24 01:58:28
+2026-04-24,02:42:52,Information,Operating on Battery has been restored,2026-04-24 02:42:52
+2026-04-24,03:29:50,Warning,Bypass Input Supply not OK,2026-04-24 03:29:50
+2026-04-24,03:43:13,Information,Phase Rotation fault has been restored,2026-04-24 03:43:13
+2026-04-24,05:52:07,Information,Bypass Input Supply not OK has been restored,2026-04-24 05:52:07
+2026-04-24,06:33:07,Critical,Unit 1 General Alarm,2026-04-24 06:33:07
+2026-04-24,07:04:45,Information,Operating on Battery has been restored,2026-04-24 07:04:45
+2026-04-24,07:22:07,Information,Rectifier Input Supply not OK has been restored,2026-04-24 07:22:07
+2026-04-24,08:11:20,Information,Rectifier Input Supply not OK has been restored,2026-04-24 08:11:20
+2026-04-24,08:56:03,Critical,Unit 2 General Alarm,2026-04-24 08:56:03
+2026-04-24,12:51:38,Information,Operating on Battery has been restored,2026-04-24 12:51:38
+2026-04-24,12:53:51,Information,Operating on Battery has been restored,2026-04-24 12:53:51
+2026-04-24,14:47:52,Information,General Alarm has been restored,2026-04-24 14:47:52
+2026-04-24,15:18:38,Warning,UPS not connected,2026-04-24 15:18:38
+2026-04-24,19:34:46,Warning,Bypass Input Supply not OK,2026-04-24 19:34:46
+2026-04-24,21:37:15,Information,Rectifier Input Supply not OK has been restored,2026-04-24 21:37:15
+2026-04-25,01:12:30,Warning,UPS not connected,2026-04-25 01:12:30
+2026-04-25,01:45:27,Information,Charger Preventive Alarm,2026-04-25 01:45:27
+2026-04-25,02:01:15,Information,Charger Preventive Alarm,2026-04-25 02:01:15
+2026-04-25,03:00:59,Information,General Alarm has been restored,2026-04-25 03:00:59
+2026-04-25,03:48:41,Information,Charger Preventive Alarm has been restored,2026-04-25 03:48:41
+2026-04-25,05:00:07,Information,Load protected by Inverter,2026-04-25 05:00:07
+2026-04-25,07:54:17,Warning,Bypass Input Supply not OK,2026-04-25 07:54:17
+2026-04-25,07:57:28,Warning,Bypass Input Supply not OK,2026-04-25 07:57:28
+2026-04-25,09:45:07,Information,Charger Preventive Alarm has been restored,2026-04-25 09:45:07
+2026-04-25,10:40:25,Warning,UPS not connected,2026-04-25 10:40:25
+2026-04-25,13:24:44,Warning,Rectifier Input Supply not OK,2026-04-25 13:24:44
+2026-04-25,15:19:44,Information,Charger Preventive Alarm,2026-04-25 15:19:44
+2026-04-25,16:45:08,Information,Unit 2 General Alarm has been restored,2026-04-25 16:45:08
+2026-04-25,17:02:20,Information,General Alarm has been restored,2026-04-25 17:02:20
+2026-04-25,19:54:07,Warning,UPS not connected,2026-04-25 19:54:07
+2026-04-25,21:58:08,Information,Bypass Input Supply not OK has been restored,2026-04-25 21:58:08
+2026-04-25,22:10:39,Warning,Rectifier Input Supply not OK,2026-04-25 22:10:39
+2026-04-26,00:08:24,Warning,Bypass Input Supply not OK,2026-04-26 00:08:24
+2026-04-26,04:20:36,Critical,Unit 2 General Alarm,2026-04-26 04:20:36
+2026-04-26,06:01:50,Information,Rectifier Input Supply not OK has been restored,2026-04-26 06:01:50
+2026-04-26,08:59:43,Critical,Unit 1 General Alarm,2026-04-26 08:59:43
+2026-04-26,09:56:27,Warning,Bypass Input Supply not OK,2026-04-26 09:56:27
+2026-04-26,11:47:39,Critical,General Alarm,2026-04-26 11:47:39
+2026-04-26,13:36:15,Information,Rectifier Input Supply not OK has been restored,2026-04-26 13:36:15
+2026-04-26,16:50:49,Warning,UPS not connected,2026-04-26 16:50:49
+2026-04-27,00:15:55,Information,Charger Preventive Alarm has been restored,2026-04-27 00:15:55
+2026-04-27,00:20:00,Warning,Operating on Battery,2026-04-27 00:20:00
+2026-04-27,00:21:08,Information,UPS connected,2026-04-27 00:21:08
+2026-04-27,00:27:31,Information,Unit 2 General Alarm has been restored,2026-04-27 00:27:31
+2026-04-27,03:34:23,Information,UPS connected,2026-04-27 03:34:23
+2026-04-27,04:45:13,Critical,Unit 2 General Alarm,2026-04-27 04:45:13
+2026-04-27,07:03:56,Warning,Phase Rotation fault,2026-04-27 07:03:56
+2026-04-27,07:06:51,Information,UPS connected,2026-04-27 07:06:51
+2026-04-27,13:11:42,Warning,Bypass Input Supply not OK,2026-04-27 13:11:42
+2026-04-27,15:36:10,Warning,Bypass Input Supply not OK,2026-04-27 15:36:10
+2026-04-27,17:09:57,Information,Charger Preventive Alarm has been restored,2026-04-27 17:09:57
+2026-04-27,19:41:30,Critical,Unit 1 General Alarm,2026-04-27 19:41:30
+2026-04-27,19:57:27,Critical,General Alarm,2026-04-27 19:57:27
+2026-04-27,20:38:59,Critical,Unit 2 General Alarm,2026-04-27 20:38:59
+2026-04-27,22:19:07,Information,Load protected by Inverter,2026-04-27 22:19:07
+2026-04-28,01:54:05,Information,Charger Preventive Alarm has been restored,2026-04-28 01:54:05
+2026-04-28,05:09:14,Critical,Unit 1 General Alarm,2026-04-28 05:09:14
+2026-04-28,07:45:37,Information,General Alarm has been restored,2026-04-28 07:45:37
+2026-04-28,07:51:45,Information,Unit 2 General Alarm has been restored,2026-04-28 07:51:45
+2026-04-28,10:22:31,Information,Unit 2 General Alarm has been restored,2026-04-28 10:22:31
+2026-04-28,12:38:21,Information,UPS connected,2026-04-28 12:38:21
+2026-04-28,13:16:22,Information,Phase Rotation fault has been restored,2026-04-28 13:16:22
+2026-04-28,18:50:45,Information,Phase Rotation fault has been restored,2026-04-28 18:50:45
+2026-04-28,22:19:36,Critical,Unit 2 General Alarm,2026-04-28 22:19:36
+2026-04-28,22:48:14,Information,Load protected by Inverter,2026-04-28 22:48:14
+2026-04-29,00:32:23,Information,Bypass Input Supply not OK has been restored,2026-04-29 00:32:23
+2026-04-29,02:14:21,Critical,Unit 1 General Alarm,2026-04-29 02:14:21
+2026-04-29,04:13:31,Information,Charger Preventive Alarm has been restored,2026-04-29 04:13:31
+2026-04-29,05:17:23,Information,Charger Preventive Alarm,2026-04-29 05:17:23
+2026-04-29,06:01:35,Warning,Operating on Battery,2026-04-29 06:01:35
+2026-04-29,06:57:09,Information,Rectifier Input Supply not OK has been restored,2026-04-29 06:57:09
+2026-04-29,10:38:46,Warning,Rectifier Input Supply not OK,2026-04-29 10:38:46
+2026-04-29,11:01:08,Warning,Phase Rotation fault,2026-04-29 11:01:08
+2026-04-29,13:05:45,Information,UPS connected,2026-04-29 13:05:45
+2026-04-29,14:29:46,Information,UPS connected,2026-04-29 14:29:46
+2026-04-29,14:54:07,Information,Charger Preventive Alarm has been restored,2026-04-29 14:54:07
+2026-04-29,15:41:56,Critical,Unit 2 General Alarm,2026-04-29 15:41:56
+2026-04-29,17:22:24,Information,Charger Preventive Alarm has been restored,2026-04-29 17:22:24
+2026-04-29,21:21:04,Critical,Unit 1 General Alarm,2026-04-29 21:21:04
+2026-04-29,21:55:44,Warning,UPS not connected,2026-04-29 21:55:44
+2026-04-29,22:13:02,Warning,Rectifier Input Supply not OK,2026-04-29 22:13:02
+2026-04-30,02:30:43,Warning,Operating on Battery,2026-04-30 02:30:43
+2026-04-30,02:34:33,Information,Unit 1 General Alarm has been restored,2026-04-30 02:34:33
+2026-04-30,03:19:34,Information,Unit 1 General Alarm has been restored,2026-04-30 03:19:34
+2026-04-30,03:58:08,Warning,Operating on Battery,2026-04-30 03:58:08
+2026-04-30,06:51:58,Information,General Alarm has been restored,2026-04-30 06:51:58
+2026-04-30,09:04:23,Information,Unit 2 General Alarm has been restored,2026-04-30 09:04:23
+2026-04-30,09:23:47,Information,Phase Rotation fault has been restored,2026-04-30 09:23:47
+2026-04-30,09:39:46,Information,Operating on Battery has been restored,2026-04-30 09:39:46
+2026-04-30,12:03:16,Information,UPS connected,2026-04-30 12:03:16
+2026-04-30,17:09:20,Warning,Rectifier Input Supply not OK,2026-04-30 17:09:20
+2026-04-30,19:52:11,Warning,Operating on Battery,2026-04-30 19:52:11
+2026-04-30,21:35:00,Critical,General Alarm,2026-04-30 21:35:00
+2026-05-01,03:51:21,Warning,Phase Rotation fault,2026-05-01 03:51:21
+2026-05-01,10:29:49,Information,Charger Preventive Alarm,2026-05-01 10:29:49
+2026-05-01,10:38:58,Information,Unit 1 General Alarm has been restored,2026-05-01 10:38:58
+2026-05-01,15:53:05,Information,Operating on Battery has been restored,2026-05-01 15:53:05
+2026-05-01,16:22:30,Warning,Bypass Input Supply not OK,2026-05-01 16:22:30
+2026-05-01,17:54:40,Information,Phase Rotation fault has been restored,2026-05-01 17:54:40
+2026-05-01,19:22:15,Information,Operating on Battery has been restored,2026-05-01 19:22:15
+2026-05-01,20:22:05,Critical,Unit 1 General Alarm,2026-05-01 20:22:05
+2026-05-01,20:24:03,Information,General Alarm has been restored,2026-05-01 20:24:03
+2026-05-01,21:30:24,Information,Operating on Battery has been restored,2026-05-01 21:30:24
+2026-05-02,01:40:02,Warning,Rectifier Input Supply not OK,2026-05-02 01:40:02
+2026-05-02,03:45:27,Information,Unit 2 General Alarm has been restored,2026-05-02 03:45:27
+2026-05-02,04:45:13,Information,Load protected by Inverter,2026-05-02 04:45:13
+2026-05-02,08:26:00,Information,Charger Preventive Alarm,2026-05-02 08:26:00
+2026-05-02,10:31:36,Warning,Operating on Battery,2026-05-02 10:31:36
+2026-05-02,18:05:54,Critical,Unit 1 General Alarm,2026-05-02 18:05:54
+2026-05-02,21:38:28,Information,Rectifier Input Supply not OK has been restored,2026-05-02 21:38:28
+2026-05-03,05:15:20,Information,Load protected by Inverter,2026-05-03 05:15:20
+2026-05-03,06:27:13,Critical,General Alarm,2026-05-03 06:27:13
+2026-05-03,22:22:33,Information,Operating on Battery has been restored,2026-05-03 22:22:33
+2026-05-04,04:25:10,Critical,General Alarm,2026-05-04 04:25:10
+2026-05-04,07:04:16,Information,UPS connected,2026-05-04 07:04:16
+2026-05-04,07:58:35,Information,Charger Preventive Alarm,2026-05-04 07:58:35
+2026-05-04,08:02:24,Information,Operating on Battery has been restored,2026-05-04 08:02:24
+2026-05-04,09:23:39,Warning,Rectifier Input Supply not OK,2026-05-04 09:23:39
+2026-05-04,13:49:07,Warning,Operating on Battery,2026-05-04 13:49:07
+2026-05-04,18:42:38,Critical,General Alarm,2026-05-04 18:42:38
+2026-05-04,20:56:05,Information,Phase Rotation fault has been restored,2026-05-04 20:56:05
+2026-05-05,01:15:08,Warning,UPS not connected,2026-05-05 01:15:08
+2026-05-05,09:03:01,Critical,Unit 1 General Alarm,2026-05-05 09:03:01
+2026-05-05,09:28:18,Information,Unit 2 General Alarm has been restored,2026-05-05 09:28:18
+2026-05-05,10:34:40,Warning,Rectifier Input Supply not OK,2026-05-05 10:34:40
+2026-05-05,13:16:25,Warning,Bypass Input Supply not OK,2026-05-05 13:16:25
+2026-05-05,17:34:45,Warning,Phase Rotation fault,2026-05-05 17:34:45
+2026-05-05,18:06:21,Critical,Unit 2 General Alarm,2026-05-05 18:06:21
+2026-05-05,20:45:19,Warning,Rectifier Input Supply not OK,2026-05-05 20:45:19
+2026-05-05,21:41:50,Critical,Unit 1 General Alarm,2026-05-05 21:41:50
+2026-05-05,23:52:41,Information,Unit 2 General Alarm has been restored,2026-05-05 23:52:41
+2026-05-06,03:54:50,Information,Unit 2 General Alarm has been restored,2026-05-06 03:54:50
+2026-05-06,09:22:22,Information,Rectifier Input Supply not OK has been restored,2026-05-06 09:22:22
+2026-05-06,10:09:44,Warning,Bypass Input Supply not OK,2026-05-06 10:09:44
+2026-05-06,11:50:29,Information,Unit 2 General Alarm has been restored,2026-05-06 11:50:29
+2026-05-06,11:53:00,Critical,General Alarm,2026-05-06 11:53:00
+2026-05-06,12:03:31,Warning,UPS not connected,2026-05-06 12:03:31
+2026-05-06,12:17:35,Information,UPS connected,2026-05-06 12:17:35
+2026-05-06,12:55:47,Information,Bypass Input Supply not OK has been restored,2026-05-06 12:55:47
+2026-05-06,13:03:51,Information,Load protected by Inverter,2026-05-06 13:03:51
+2026-05-06,17:22:24,Warning,Bypass Input Supply not OK,2026-05-06 17:22:24
+2026-05-06,17:46:41,Warning,Operating on Battery,2026-05-06 17:46:41
+2026-05-06,17:58:06,Critical,General Alarm,2026-05-06 17:58:06
+2026-05-06,18:18:35,Warning,Operating on Battery,2026-05-06 18:18:35
+2026-05-06,22:02:30,Information,Charger Preventive Alarm,2026-05-06 22:02:30
+2026-05-07,00:23:35,Information,Bypass Input Supply not OK has been restored,2026-05-07 00:23:35
+2026-05-07,00:57:48,Information,Bypass Input Supply not OK has been restored,2026-05-07 00:57:48
+2026-05-07,02:23:41,Warning,Bypass Input Supply not OK,2026-05-07 02:23:41
+2026-05-07,05:02:14,Information,Unit 1 General Alarm has been restored,2026-05-07 05:02:14
+2026-05-07,05:45:59,Warning,Bypass Input Supply not OK,2026-05-07 05:45:59
+2026-05-07,06:40:44,Information,Phase Rotation fault has been restored,2026-05-07 06:40:44
+2026-05-07,06:48:26,Information,Bypass Input Supply not OK has been restored,2026-05-07 06:48:26
+2026-05-07,07:58:42,Warning,Bypass Input Supply not OK,2026-05-07 07:58:42
+2026-05-07,09:16:14,Critical,Unit 1 General Alarm,2026-05-07 09:16:14
+2026-05-07,10:51:47,Warning,Phase Rotation fault,2026-05-07 10:51:47
+2026-05-07,13:10:45,Information,Rectifier Input Supply not OK has been restored,2026-05-07 13:10:45
+2026-05-07,14:44:39,Critical,Unit 1 General Alarm,2026-05-07 14:44:39
+2026-05-07,17:28:20,Information,Load protected by Inverter,2026-05-07 17:28:20
+2026-05-08,02:32:15,Information,Operating on Battery has been restored,2026-05-08 02:32:15
+2026-05-08,03:05:35,Warning,UPS not connected,2026-05-08 03:05:35
+2026-05-08,04:47:49,Information,Charger Preventive Alarm,2026-05-08 04:47:49
+2026-05-08,08:48:33,Critical,Unit 2 General Alarm,2026-05-08 08:48:33
+2026-05-08,09:26:39,Warning,Phase Rotation fault,2026-05-08 09:26:39
+2026-05-08,11:09:09,Information,Unit 1 General Alarm has been restored,2026-05-08 11:09:09
+2026-05-08,11:41:59,Warning,Operating on Battery,2026-05-08 11:41:59
+2026-05-08,12:56:56,Information,Bypass Input Supply not OK has been restored,2026-05-08 12:56:56
+2026-05-08,15:46:12,Information,Unit 2 General Alarm has been restored,2026-05-08 15:46:12
+2026-05-08,21:36:36,Information,Charger Preventive Alarm,2026-05-08 21:36:36
+2026-05-08,21:43:40,Warning,Phase Rotation fault,2026-05-08 21:43:40
+2026-05-09,04:16:47,Warning,Bypass Input Supply not OK,2026-05-09 04:16:47
+2026-05-09,04:36:37,Critical,General Alarm,2026-05-09 04:36:37
+2026-05-09,05:33:54,Information,Charger Preventive Alarm has been restored,2026-05-09 05:33:54
+2026-05-09,07:53:30,Critical,Unit 2 General Alarm,2026-05-09 07:53:30
+2026-05-09,08:47:08,Information,Charger Preventive Alarm,2026-05-09 08:47:08
+2026-05-09,11:22:38,Warning,Bypass Input Supply not OK,2026-05-09 11:22:38
+2026-05-09,11:55:42,Information,Unit 1 General Alarm has been restored,2026-05-09 11:55:42
+2026-05-09,13:01:26,Information,Unit 1 General Alarm has been restored,2026-05-09 13:01:26
+2026-05-09,14:11:37,Information,Unit 2 General Alarm has been restored,2026-05-09 14:11:37
+2026-05-09,14:26:38,Information,Unit 1 General Alarm has been restored,2026-05-09 14:26:38
+2026-05-09,15:59:56,Warning,Rectifier Input Supply not OK,2026-05-09 15:59:56
+2026-05-09,16:52:50,Information,Unit 2 General Alarm has been restored,2026-05-09 16:52:50
+2026-05-09,17:04:20,Warning,UPS not connected,2026-05-09 17:04:20
+2026-05-09,17:46:23,Warning,UPS not connected,2026-05-09 17:46:23
+2026-05-09,21:13:21,Critical,General Alarm,2026-05-09 21:13:21

@@ -1,0 +1,63 @@
+from pathlib import Path
+from typing import Literal
+
+from pydantic_settings import BaseSettings, SettingsConfigDict
+
+BACKEND_ROOT = Path(__file__).resolve().parents[1]
+
+
+class Settings(BaseSettings):
+    # Chemin absolu vers backend/.env (où vit `.env.example`) : un chemin relatif
+    # serait résolu depuis le répertoire de lancement, et `uvicorn --app-dir backend`
+    # démarre depuis la racine du dépôt — le fichier n'était alors jamais lu.
+    model_config = SettingsConfigDict(
+        env_file=BACKEND_ROOT / ".env", env_file_encoding="utf-8"
+    )
+
+    # Source des données métier (santé, forecast, anomalies) :
+    #   "mock" — générateurs seedés (Phases 1–7, défaut)
+    #   "live" — pipeline ML validé, lecture du gold précalculé (Phase 8)
+    # Le basculement se fait par cette seule variable ; voir app/providers.py.
+    data_source: Literal["mock", "live"] = "mock"
+
+    # Dérogation par domaine, pour ne basculer qu'une partie de l'application.
+    # Non renseignée → le domaine suit `data_source`. Utile en démo : les données
+    # réelles s'arrêtent en mai 2026, donc les vues d'anomalies bornées à une
+    # fenêtre récente n'ont rien à montrer, alors que les scores de santé, eux,
+    # se lisent très bien sur la dernière heure disponible.
+    anomalies_source: Literal["mock", "live"] | None = None
+    health_source: Literal["mock", "live"] | None = None
+
+    @property
+    def resolved_anomalies_source(self) -> str:
+        return self.anomalies_source or self.data_source
+
+    @property
+    def resolved_health_source(self) -> str:
+        return self.health_source or self.data_source
+
+    # Source de données (lecture) — PostgreSQL UseCase03_G02
+    db_host: str = "localhost"
+    db_port: int = 5432
+    db_name: str = "UseCase03_G02"
+    db_user: str = ""
+    db_password: str = ""
+
+    # État applicatif (écriture) — SQLite local, volontairement distinct de la
+    # base source : ce que l'utilisateur saisit dans DataPulse n'a pas à être
+    # écrit dans la base du data center.
+    app_db_path: Path = BACKEND_ROOT / "data" / "datapulse.db"
+
+    # Stockage analytique (écriture par l'ETL uniquement) — SQLite local, distinct
+    # de l'état applicatif : couches bronze/silver/gold du pipeline de données.
+    # Voir docs/data-architecture.md. Un seul écrivain (ETL) par fichier.
+    analytics_db_path: Path = BACKEND_ROOT / "data" / "datapulse_analytics.db"
+
+    cors_origins: list[str] = [
+        "http://localhost:5173",
+        "http://127.0.0.1:5173",
+        "http://0.0.0.0:5173",
+    ]
+
+
+settings = Settings()
