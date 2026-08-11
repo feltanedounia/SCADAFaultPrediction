@@ -57,21 +57,21 @@ The project consists of four main components:
 SCADAFaultPrediction/
 │
 ├── notebooks/
-│   ├── 01_eda.ipynb
-│   ├── 02_alarm_anomaly_detection.ipynb
-│   ├── 03_environmental_anomaly_detection.ipynb
-│   └── 04_site_health_forecasting.ipynb
+│   ├── eda.ipynb
+│   ├── alarm_anomalies.ipynb
+│   ├── environmental_anomalies.ipynb
+│   └── site_health_scores.ipynb
 │
 ├── src/
 │   ├── preprocessing.py
-│   ├── feature_engineering.py
-│   ├── anomaly_detection.py
-│   └── health_scoring.py
+│   └── feature_engineering.py
 │
 ├── data/
-│   └── synthetic/
+│   └── synthetic_data
 │
-├── results/
+├── web-app/
+│   ├── frontend
+│   └── backend
 │
 ├── requirements.txt
 └── README.md
